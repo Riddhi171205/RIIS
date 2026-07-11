@@ -1,0 +1,11 @@
+store_id,store_name,city,region
+1,RIIS Jaipur Central,Jaipur,Rajasthan
+2,RIIS Mansarovar,Jaipur,Rajasthan
+3,RIIS Vaishali Nagar,Jaipur,Rajasthan
+4,RIIS Delhi Central,Delhi,Delhi NCR
+5,RIIS Noida Sector 18,Noida,Delhi NCR
+6,RIIS Gurugram,Gurugram,Delhi NCR
+7,RIIS Mumbai Central,Mumbai,Maharashtra
+8,RIIS Pune West,Pune,Maharashtra
+9,RIIS Indore,Indore,Madhya Pradesh
+10,RIIS Ahmedabad,Ahmedabad,Gujarat

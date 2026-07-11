@@ -1,0 +1,29 @@
+import pandas as pd
+
+suppliers = [
+    [1, "Amul Distribution Pvt Ltd", "Jaipur", 2, "contact@amul.com"],
+    [2, "Fortune Foods Supply", "Jaipur", 3, "sales@fortune.com"],
+    [3, "Britannia Distributor", "Jaipur", 2, "info@britannia.com"],
+    [4, "Tata Consumer Supply", "Jaipur", 4, "support@tataconsumer.com"],
+    [5, "Nestle India Supply", "Jaipur", 3, "contact@nestle.com"],
+    [6, "Dabur Wholesale", "Jaipur", 5, "sales@dabur.com"],
+    [7, "HUL Distribution", "Jaipur", 2, "support@hul.com"],
+    [8, "Patanjali Supply Chain", "Jaipur", 4, "info@patanjali.com"],
+    [9, "ITC Foods Distributor", "Jaipur", 3, "sales@itc.com"],
+    [10, "Parle Products Supply", "Jaipur", 2, "contact@parle.com"],
+]
+
+columns = [
+    "supplier_id",
+    "supplier_name",
+    "city",
+    "lead_time_days",
+    "contact_email"
+]
+
+df = pd.DataFrame(suppliers, columns=columns)
+
+df.to_csv("data/raw/suppliers.csv", index=False)
+
+print(df)
+print("\n✅ suppliers.csv generated successfully!")

@@ -1,0 +1,781 @@
+product_id,sku,product_name,category,subcategory,brand,unit,cost_price,selling_price,shelf_life_days,reorder_level
+1001,SKU1001,India Gate Rice 1,Grocery,Rice,India Gate,1 Unit,400,454.54,365,26
+1002,SKU1002,India Gate Rice 2,Grocery,Rice,India Gate,1 Unit,235,277.94,730,22
+1003,SKU1003,India Gate Rice 3,Grocery,Rice,India Gate,1 Unit,185,219.08,30,49
+1004,SKU1004,India Gate Rice 4,Grocery,Rice,India Gate,1 Unit,47,62.98,180,96
+1005,SKU1005,India Gate Rice 5,Grocery,Rice,India Gate,1 Unit,99,120.75,90,79
+1006,SKU1006,India Gate Rice 6,Grocery,Rice,India Gate,1 Unit,206,230.64,90,60
+1007,SKU1007,India Gate Rice 7,Grocery,Rice,India Gate,1 Unit,36,42.07,365,92
+1008,SKU1008,India Gate Rice 8,Grocery,Rice,India Gate,1 Unit,390,480.48,180,70
+1009,SKU1009,India Gate Rice 9,Grocery,Rice,India Gate,1 Unit,81,100.64,365,48
+1010,SKU1010,India Gate Rice 10,Grocery,Rice,India Gate,1 Unit,272,335.56,365,31
+1011,SKU1011,India Gate Rice 11,Grocery,Rice,India Gate,1 Unit,284,375.26,30,29
+1012,SKU1012,India Gate Rice 12,Grocery,Rice,India Gate,1 Unit,63,72.85,30,57
+1013,SKU1013,India Gate Rice 13,Grocery,Rice,India Gate,1 Unit,261,352.24,730,58
+1014,SKU1014,India Gate Rice 14,Grocery,Rice,India Gate,1 Unit,208,229.07,30,65
+1015,SKU1015,India Gate Rice 15,Grocery,Rice,India Gate,1 Unit,285,375.65,730,39
+1016,SKU1016,India Gate Rice 16,Grocery,Rice,India Gate,1 Unit,354,391.28,365,77
+1017,SKU1017,India Gate Rice 17,Grocery,Rice,India Gate,1 Unit,303,395.62,180,31
+1018,SKU1018,India Gate Rice 18,Grocery,Rice,India Gate,1 Unit,343,387.54,30,98
+1019,SKU1019,India Gate Rice 19,Grocery,Rice,India Gate,1 Unit,156,180.07,180,86
+1020,SKU1020,India Gate Rice 20,Grocery,Rice,India Gate,1 Unit,182,239.5,180,59
+1021,SKU1021,Daawat Rice 1,Grocery,Rice,Daawat,1 Unit,129,159.76,730,70
+1022,SKU1022,Daawat Rice 2,Grocery,Rice,Daawat,1 Unit,430,530.69,90,26
+1023,SKU1023,Daawat Rice 3,Grocery,Rice,Daawat,1 Unit,231,293.57,365,46
+1024,SKU1024,Daawat Rice 4,Grocery,Rice,Daawat,1 Unit,62,69.7,90,99
+1025,SKU1025,Daawat Rice 5,Grocery,Rice,Daawat,1 Unit,102,129.67,365,38
+1026,SKU1026,Daawat Rice 6,Grocery,Rice,Daawat,1 Unit,228,301.55,180,88
+1027,SKU1027,Daawat Rice 7,Grocery,Rice,Daawat,1 Unit,249,331.33,180,79
+1028,SKU1028,Daawat Rice 8,Grocery,Rice,Daawat,1 Unit,280,362.37,365,84
+1029,SKU1029,Daawat Rice 9,Grocery,Rice,Daawat,1 Unit,148,178.29,90,22
+1030,SKU1030,Daawat Rice 10,Grocery,Rice,Daawat,1 Unit,80,101.79,365,75
+1031,SKU1031,Daawat Rice 11,Grocery,Rice,Daawat,1 Unit,128,163.36,90,83
+1032,SKU1032,Daawat Rice 12,Grocery,Rice,Daawat,1 Unit,283,360.79,180,77
+1033,SKU1033,Daawat Rice 13,Grocery,Rice,Daawat,1 Unit,166,211.41,90,24
+1034,SKU1034,Daawat Rice 14,Grocery,Rice,Daawat,1 Unit,494,631.65,180,54
+1035,SKU1035,Daawat Rice 15,Grocery,Rice,Daawat,1 Unit,34,37.8,90,87
+1036,SKU1036,Daawat Rice 16,Grocery,Rice,Daawat,1 Unit,481,585.75,365,92
+1037,SKU1037,Daawat Rice 17,Grocery,Rice,Daawat,1 Unit,469,624.12,180,61
+1038,SKU1038,Daawat Rice 18,Grocery,Rice,Daawat,1 Unit,233,302.52,730,51
+1039,SKU1039,Daawat Rice 19,Grocery,Rice,Daawat,1 Unit,162,180.32,180,84
+1040,SKU1040,Daawat Rice 20,Grocery,Rice,Daawat,1 Unit,186,249.38,90,64
+1041,SKU1041,Fortune Rice 1,Grocery,Rice,Fortune,1 Unit,319,356.69,30,61
+1042,SKU1042,Fortune Rice 2,Grocery,Rice,Fortune,1 Unit,312,349.22,180,75
+1043,SKU1043,Fortune Rice 3,Grocery,Rice,Fortune,1 Unit,207,231.34,180,21
+1044,SKU1044,Fortune Rice 4,Grocery,Rice,Fortune,1 Unit,274,307.96,90,95
+1045,SKU1045,Fortune Rice 5,Grocery,Rice,Fortune,1 Unit,150,179.88,180,85
+1046,SKU1046,Fortune Rice 6,Grocery,Rice,Fortune,1 Unit,324,386.76,90,94
+1047,SKU1047,Fortune Rice 7,Grocery,Rice,Fortune,1 Unit,78,103.76,30,59
+1048,SKU1048,Fortune Rice 8,Grocery,Rice,Fortune,1 Unit,201,233.2,90,23
+1049,SKU1049,Fortune Rice 9,Grocery,Rice,Fortune,1 Unit,341,413.47,730,92
+1050,SKU1050,Fortune Rice 10,Grocery,Rice,Fortune,1 Unit,426,504.14,365,86
+1051,SKU1051,Fortune Rice 11,Grocery,Rice,Fortune,1 Unit,261,343.1,90,58
+1052,SKU1052,Fortune Rice 12,Grocery,Rice,Fortune,1 Unit,363,439.67,90,49
+1053,SKU1053,Fortune Rice 13,Grocery,Rice,Fortune,1 Unit,213,262.81,365,90
+1054,SKU1054,Fortune Rice 14,Grocery,Rice,Fortune,1 Unit,175,210.09,90,39
+1055,SKU1055,Fortune Rice 15,Grocery,Rice,Fortune,1 Unit,251,304.05,90,34
+1056,SKU1056,Fortune Rice 16,Grocery,Rice,Fortune,1 Unit,411,489.87,365,46
+1057,SKU1057,Fortune Rice 17,Grocery,Rice,Fortune,1 Unit,457,505.21,180,89
+1058,SKU1058,Fortune Rice 18,Grocery,Rice,Fortune,1 Unit,141,189.99,30,29
+1059,SKU1059,Fortune Rice 19,Grocery,Rice,Fortune,1 Unit,202,224.66,90,64
+1060,SKU1060,Fortune Rice 20,Grocery,Rice,Fortune,1 Unit,292,384.92,30,79
+1061,SKU1061,Aashirvaad Atta 1,Grocery,Atta,Aashirvaad,1 Unit,262,322.92,90,52
+1062,SKU1062,Aashirvaad Atta 2,Grocery,Atta,Aashirvaad,1 Unit,197,256.08,30,36
+1063,SKU1063,Aashirvaad Atta 3,Grocery,Atta,Aashirvaad,1 Unit,293,376.46,90,65
+1064,SKU1064,Aashirvaad Atta 4,Grocery,Atta,Aashirvaad,1 Unit,39,44.72,365,70
+1065,SKU1065,Aashirvaad Atta 5,Grocery,Atta,Aashirvaad,1 Unit,67,75.22,730,66
+1066,SKU1066,Aashirvaad Atta 6,Grocery,Atta,Aashirvaad,1 Unit,202,245.3,90,42
+1067,SKU1067,Aashirvaad Atta 7,Grocery,Atta,Aashirvaad,1 Unit,312,409.98,730,100
+1068,SKU1068,Aashirvaad Atta 8,Grocery,Atta,Aashirvaad,1 Unit,196,217.44,30,87
+1069,SKU1069,Aashirvaad Atta 9,Grocery,Atta,Aashirvaad,1 Unit,379,478.15,730,55
+1070,SKU1070,Aashirvaad Atta 10,Grocery,Atta,Aashirvaad,1 Unit,64,81.58,730,28
+1071,SKU1071,Aashirvaad Atta 11,Grocery,Atta,Aashirvaad,1 Unit,435,541.1,365,66
+1072,SKU1072,Aashirvaad Atta 12,Grocery,Atta,Aashirvaad,1 Unit,181,230.31,90,81
+1073,SKU1073,Aashirvaad Atta 13,Grocery,Atta,Aashirvaad,1 Unit,61,81.95,90,45
+1074,SKU1074,Aashirvaad Atta 14,Grocery,Atta,Aashirvaad,1 Unit,243,314.48,730,73
+1075,SKU1075,Aashirvaad Atta 15,Grocery,Atta,Aashirvaad,1 Unit,33,39.03,30,64
+1076,SKU1076,Aashirvaad Atta 16,Grocery,Atta,Aashirvaad,1 Unit,320,392.6,30,80
+1077,SKU1077,Aashirvaad Atta 17,Grocery,Atta,Aashirvaad,1 Unit,64,76.4,90,24
+1078,SKU1078,Aashirvaad Atta 18,Grocery,Atta,Aashirvaad,1 Unit,213,275.28,365,93
+1079,SKU1079,Aashirvaad Atta 19,Grocery,Atta,Aashirvaad,1 Unit,407,487.31,30,81
+1080,SKU1080,Aashirvaad Atta 20,Grocery,Atta,Aashirvaad,1 Unit,311,390.64,90,85
+1081,SKU1081,Fortune Atta 1,Grocery,Atta,Fortune,1 Unit,132,158.85,30,62
+1082,SKU1082,Fortune Atta 2,Grocery,Atta,Fortune,1 Unit,231,311.76,730,25
+1083,SKU1083,Fortune Atta 3,Grocery,Atta,Fortune,1 Unit,389,513.94,90,75
+1084,SKU1084,Fortune Atta 4,Grocery,Atta,Fortune,1 Unit,411,462.82,180,31
+1085,SKU1085,Fortune Atta 5,Grocery,Atta,Fortune,1 Unit,83,103.89,180,58
+1086,SKU1086,Fortune Atta 6,Grocery,Atta,Fortune,1 Unit,102,129.93,30,38
+1087,SKU1087,Fortune Atta 7,Grocery,Atta,Fortune,1 Unit,340,415.12,730,23
+1088,SKU1088,Fortune Atta 8,Grocery,Atta,Fortune,1 Unit,134,163.96,730,29
+1089,SKU1089,Fortune Atta 9,Grocery,Atta,Fortune,1 Unit,210,241.7,365,74
+1090,SKU1090,Fortune Atta 10,Grocery,Atta,Fortune,1 Unit,470,572.23,90,25
+1091,SKU1091,Fortune Atta 11,Grocery,Atta,Fortune,1 Unit,182,226.68,730,52
+1092,SKU1092,Fortune Atta 12,Grocery,Atta,Fortune,1 Unit,87,117.43,730,47
+1093,SKU1093,Fortune Atta 13,Grocery,Atta,Fortune,1 Unit,127,156.69,90,72
+1094,SKU1094,Fortune Atta 14,Grocery,Atta,Fortune,1 Unit,349,459.43,90,50
+1095,SKU1095,Fortune Atta 15,Grocery,Atta,Fortune,1 Unit,374,437.25,90,23
+1096,SKU1096,Fortune Atta 16,Grocery,Atta,Fortune,1 Unit,119,133.63,90,72
+1097,SKU1097,Fortune Atta 17,Grocery,Atta,Fortune,1 Unit,66,81.72,30,78
+1098,SKU1098,Fortune Atta 18,Grocery,Atta,Fortune,1 Unit,333,427.67,90,58
+1099,SKU1099,Fortune Atta 19,Grocery,Atta,Fortune,1 Unit,196,218.25,90,58
+1100,SKU1100,Fortune Atta 20,Grocery,Atta,Fortune,1 Unit,446,525.48,180,27
+1101,SKU1101,Pillsbury Atta 1,Grocery,Atta,Pillsbury,1 Unit,303,336.59,90,77
+1102,SKU1102,Pillsbury Atta 2,Grocery,Atta,Pillsbury,1 Unit,260,340.28,30,45
+1103,SKU1103,Pillsbury Atta 3,Grocery,Atta,Pillsbury,1 Unit,228,299.85,30,32
+1104,SKU1104,Pillsbury Atta 4,Grocery,Atta,Pillsbury,1 Unit,171,211.58,180,99
+1105,SKU1105,Pillsbury Atta 5,Grocery,Atta,Pillsbury,1 Unit,430,557.63,730,51
+1106,SKU1106,Pillsbury Atta 6,Grocery,Atta,Pillsbury,1 Unit,111,141.51,90,86
+1107,SKU1107,Pillsbury Atta 7,Grocery,Atta,Pillsbury,1 Unit,393,475.11,365,82
+1108,SKU1108,Pillsbury Atta 8,Grocery,Atta,Pillsbury,1 Unit,413,517.22,180,47
+1109,SKU1109,Pillsbury Atta 9,Grocery,Atta,Pillsbury,1 Unit,25,30.89,180,30
+1110,SKU1110,Pillsbury Atta 10,Grocery,Atta,Pillsbury,1 Unit,140,158.91,90,29
+1111,SKU1111,Pillsbury Atta 11,Grocery,Atta,Pillsbury,1 Unit,84,103.09,730,72
+1112,SKU1112,Pillsbury Atta 12,Grocery,Atta,Pillsbury,1 Unit,315,409.22,90,36
+1113,SKU1113,Pillsbury Atta 13,Grocery,Atta,Pillsbury,1 Unit,209,278.58,730,27
+1114,SKU1114,Pillsbury Atta 14,Grocery,Atta,Pillsbury,1 Unit,474,578.95,90,44
+1115,SKU1115,Pillsbury Atta 15,Grocery,Atta,Pillsbury,1 Unit,192,222.9,180,66
+1116,SKU1116,Pillsbury Atta 16,Grocery,Atta,Pillsbury,1 Unit,286,383.92,30,21
+1117,SKU1117,Pillsbury Atta 17,Grocery,Atta,Pillsbury,1 Unit,159,182.26,180,55
+1118,SKU1118,Pillsbury Atta 18,Grocery,Atta,Pillsbury,1 Unit,323,395.61,730,42
+1119,SKU1119,Pillsbury Atta 19,Grocery,Atta,Pillsbury,1 Unit,350,431.43,180,22
+1120,SKU1120,Pillsbury Atta 20,Grocery,Atta,Pillsbury,1 Unit,420,529.23,365,57
+1121,SKU1121,Fortune Oil 1,Grocery,Oil,Fortune,1 Unit,176,210.77,30,49
+1122,SKU1122,Fortune Oil 2,Grocery,Oil,Fortune,1 Unit,452,531.35,180,43
+1123,SKU1123,Fortune Oil 3,Grocery,Oil,Fortune,1 Unit,159,185.13,90,77
+1124,SKU1124,Fortune Oil 4,Grocery,Oil,Fortune,1 Unit,90,109.13,180,77
+1125,SKU1125,Fortune Oil 5,Grocery,Oil,Fortune,1 Unit,374,438.51,180,20
+1126,SKU1126,Fortune Oil 6,Grocery,Oil,Fortune,1 Unit,333,422.97,365,91
+1127,SKU1127,Fortune Oil 7,Grocery,Oil,Fortune,1 Unit,125,138.41,365,25
+1128,SKU1128,Fortune Oil 8,Grocery,Oil,Fortune,1 Unit,46,56.44,30,88
+1129,SKU1129,Fortune Oil 9,Grocery,Oil,Fortune,1 Unit,436,560.19,730,71
+1130,SKU1130,Fortune Oil 10,Grocery,Oil,Fortune,1 Unit,231,281.45,730,52
+1131,SKU1131,Fortune Oil 11,Grocery,Oil,Fortune,1 Unit,412,544.86,180,42
+1132,SKU1132,Fortune Oil 12,Grocery,Oil,Fortune,1 Unit,79,100.47,90,29
+1133,SKU1133,Fortune Oil 13,Grocery,Oil,Fortune,1 Unit,96,122.69,365,40
+1134,SKU1134,Fortune Oil 14,Grocery,Oil,Fortune,1 Unit,155,179.23,180,38
+1135,SKU1135,Fortune Oil 15,Grocery,Oil,Fortune,1 Unit,445,573.53,180,62
+1136,SKU1136,Fortune Oil 16,Grocery,Oil,Fortune,1 Unit,22,29.48,30,92
+1137,SKU1137,Fortune Oil 17,Grocery,Oil,Fortune,1 Unit,165,197.24,30,35
+1138,SKU1138,Fortune Oil 18,Grocery,Oil,Fortune,1 Unit,81,106.23,365,67
+1139,SKU1139,Fortune Oil 19,Grocery,Oil,Fortune,1 Unit,95,124.93,180,100
+1140,SKU1140,Fortune Oil 20,Grocery,Oil,Fortune,1 Unit,312,369.02,180,88
+1141,SKU1141,Saffola Oil 1,Grocery,Oil,Saffola,1 Unit,273,316.35,180,92
+1142,SKU1142,Saffola Oil 2,Grocery,Oil,Saffola,1 Unit,368,488.83,180,83
+1143,SKU1143,Saffola Oil 3,Grocery,Oil,Saffola,1 Unit,240,303.77,365,71
+1144,SKU1144,Saffola Oil 4,Grocery,Oil,Saffola,1 Unit,118,159.06,365,60
+1145,SKU1145,Saffola Oil 5,Grocery,Oil,Saffola,1 Unit,29,38.3,90,44
+1146,SKU1146,Saffola Oil 6,Grocery,Oil,Saffola,1 Unit,29,38.57,365,62
+1147,SKU1147,Saffola Oil 7,Grocery,Oil,Saffola,1 Unit,299,332.39,180,83
+1148,SKU1148,Saffola Oil 8,Grocery,Oil,Saffola,1 Unit,61,75.72,180,61
+1149,SKU1149,Saffola Oil 9,Grocery,Oil,Saffola,1 Unit,336,399.22,180,98
+1150,SKU1150,Saffola Oil 10,Grocery,Oil,Saffola,1 Unit,301,336.24,730,26
+1151,SKU1151,Saffola Oil 11,Grocery,Oil,Saffola,1 Unit,389,460.91,30,97
+1152,SKU1152,Saffola Oil 12,Grocery,Oil,Saffola,1 Unit,282,358.88,365,35
+1153,SKU1153,Saffola Oil 13,Grocery,Oil,Saffola,1 Unit,33,41.87,180,53
+1154,SKU1154,Saffola Oil 14,Grocery,Oil,Saffola,1 Unit,342,423.07,90,39
+1155,SKU1155,Saffola Oil 15,Grocery,Oil,Saffola,1 Unit,29,38.15,180,45
+1156,SKU1156,Saffola Oil 16,Grocery,Oil,Saffola,1 Unit,149,186.88,90,92
+1157,SKU1157,Saffola Oil 17,Grocery,Oil,Saffola,1 Unit,171,209.38,90,79
+1158,SKU1158,Saffola Oil 18,Grocery,Oil,Saffola,1 Unit,439,563.23,180,63
+1159,SKU1159,Saffola Oil 19,Grocery,Oil,Saffola,1 Unit,359,421.79,365,65
+1160,SKU1160,Saffola Oil 20,Grocery,Oil,Saffola,1 Unit,316,348.4,180,86
+1161,SKU1161,Dhara Oil 1,Grocery,Oil,Dhara,1 Unit,32,38.89,30,53
+1162,SKU1162,Dhara Oil 2,Grocery,Oil,Dhara,1 Unit,154,193.65,180,54
+1163,SKU1163,Dhara Oil 3,Grocery,Oil,Dhara,1 Unit,291,332.24,30,76
+1164,SKU1164,Dhara Oil 4,Grocery,Oil,Dhara,1 Unit,185,214.42,365,52
+1165,SKU1165,Dhara Oil 5,Grocery,Oil,Dhara,1 Unit,175,224.17,90,79
+1166,SKU1166,Dhara Oil 6,Grocery,Oil,Dhara,1 Unit,170,192.93,365,33
+1167,SKU1167,Dhara Oil 7,Grocery,Oil,Dhara,1 Unit,166,215.63,180,46
+1168,SKU1168,Dhara Oil 8,Grocery,Oil,Dhara,1 Unit,259,310.91,730,29
+1169,SKU1169,Dhara Oil 9,Grocery,Oil,Dhara,1 Unit,483,596.09,365,40
+1170,SKU1170,Dhara Oil 10,Grocery,Oil,Dhara,1 Unit,61,67.66,365,28
+1171,SKU1171,Dhara Oil 11,Grocery,Oil,Dhara,1 Unit,28,32.92,30,89
+1172,SKU1172,Dhara Oil 12,Grocery,Oil,Dhara,1 Unit,143,158.3,30,33
+1173,SKU1173,Dhara Oil 13,Grocery,Oil,Dhara,1 Unit,267,298.03,90,51
+1174,SKU1174,Dhara Oil 14,Grocery,Oil,Dhara,1 Unit,51,66.42,30,98
+1175,SKU1175,Dhara Oil 15,Grocery,Oil,Dhara,1 Unit,400,460.53,30,57
+1176,SKU1176,Dhara Oil 16,Grocery,Oil,Dhara,1 Unit,299,336.81,30,46
+1177,SKU1177,Dhara Oil 17,Grocery,Oil,Dhara,1 Unit,481,587.46,730,93
+1178,SKU1178,Dhara Oil 18,Grocery,Oil,Dhara,1 Unit,151,173.53,365,96
+1179,SKU1179,Dhara Oil 19,Grocery,Oil,Dhara,1 Unit,134,158.21,30,56
+1180,SKU1180,Dhara Oil 20,Grocery,Oil,Dhara,1 Unit,389,495.8,365,40
+1181,SKU1181,Madhur Sugar 1,Grocery,Sugar,Madhur,1 Unit,427,553.52,730,87
+1182,SKU1182,Madhur Sugar 2,Grocery,Sugar,Madhur,1 Unit,192,222.15,180,84
+1183,SKU1183,Madhur Sugar 3,Grocery,Sugar,Madhur,1 Unit,48,59.36,30,52
+1184,SKU1184,Madhur Sugar 4,Grocery,Sugar,Madhur,1 Unit,115,135.32,730,25
+1185,SKU1185,Madhur Sugar 5,Grocery,Sugar,Madhur,1 Unit,413,498.33,730,42
+1186,SKU1186,Madhur Sugar 6,Grocery,Sugar,Madhur,1 Unit,254,304.77,30,57
+1187,SKU1187,Madhur Sugar 7,Grocery,Sugar,Madhur,1 Unit,69,84.12,730,65
+1188,SKU1188,Madhur Sugar 8,Grocery,Sugar,Madhur,1 Unit,37,40.82,30,80
+1189,SKU1189,Madhur Sugar 9,Grocery,Sugar,Madhur,1 Unit,226,276.21,90,38
+1190,SKU1190,Madhur Sugar 10,Grocery,Sugar,Madhur,1 Unit,421,549.98,90,24
+1191,SKU1191,Madhur Sugar 11,Grocery,Sugar,Madhur,1 Unit,94,124.13,730,59
+1192,SKU1192,Madhur Sugar 12,Grocery,Sugar,Madhur,1 Unit,203,247.78,730,98
+1193,SKU1193,Madhur Sugar 13,Grocery,Sugar,Madhur,1 Unit,354,399.18,180,96
+1194,SKU1194,Madhur Sugar 14,Grocery,Sugar,Madhur,1 Unit,495,580.72,180,66
+1195,SKU1195,Madhur Sugar 15,Grocery,Sugar,Madhur,1 Unit,50,62.11,90,68
+1196,SKU1196,Madhur Sugar 16,Grocery,Sugar,Madhur,1 Unit,44,53.05,90,32
+1197,SKU1197,Madhur Sugar 17,Grocery,Sugar,Madhur,1 Unit,154,183.71,180,37
+1198,SKU1198,Madhur Sugar 18,Grocery,Sugar,Madhur,1 Unit,331,414.72,730,64
+1199,SKU1199,Madhur Sugar 19,Grocery,Sugar,Madhur,1 Unit,67,73.75,730,84
+1200,SKU1200,Madhur Sugar 20,Grocery,Sugar,Madhur,1 Unit,127,142.66,90,44
+1201,SKU1201,Trust Sugar 1,Grocery,Sugar,Trust,1 Unit,21,24.89,365,93
+1202,SKU1202,Trust Sugar 2,Grocery,Sugar,Trust,1 Unit,37,41.12,365,88
+1203,SKU1203,Trust Sugar 3,Grocery,Sugar,Trust,1 Unit,198,252.42,730,22
+1204,SKU1204,Trust Sugar 4,Grocery,Sugar,Trust,1 Unit,136,168.37,30,27
+1205,SKU1205,Trust Sugar 5,Grocery,Sugar,Trust,1 Unit,37,47.89,90,83
+1206,SKU1206,Trust Sugar 6,Grocery,Sugar,Trust,1 Unit,69,80.98,30,99
+1207,SKU1207,Trust Sugar 7,Grocery,Sugar,Trust,1 Unit,323,366.08,730,25
+1208,SKU1208,Trust Sugar 8,Grocery,Sugar,Trust,1 Unit,342,453.89,180,49
+1209,SKU1209,Trust Sugar 9,Grocery,Sugar,Trust,1 Unit,205,251.59,365,54
+1210,SKU1210,Trust Sugar 10,Grocery,Sugar,Trust,1 Unit,113,131.34,365,21
+1211,SKU1211,Trust Sugar 11,Grocery,Sugar,Trust,1 Unit,126,158.65,30,84
+1212,SKU1212,Trust Sugar 12,Grocery,Sugar,Trust,1 Unit,42,53.61,30,54
+1213,SKU1213,Trust Sugar 13,Grocery,Sugar,Trust,1 Unit,133,151.83,180,39
+1214,SKU1214,Trust Sugar 14,Grocery,Sugar,Trust,1 Unit,397,481.89,180,51
+1215,SKU1215,Trust Sugar 15,Grocery,Sugar,Trust,1 Unit,181,217.31,365,41
+1216,SKU1216,Trust Sugar 16,Grocery,Sugar,Trust,1 Unit,207,262.84,730,100
+1217,SKU1217,Trust Sugar 17,Grocery,Sugar,Trust,1 Unit,200,266.42,30,90
+1218,SKU1218,Trust Sugar 18,Grocery,Sugar,Trust,1 Unit,35,42.69,730,20
+1219,SKU1219,Trust Sugar 19,Grocery,Sugar,Trust,1 Unit,341,452.51,365,97
+1220,SKU1220,Trust Sugar 20,Grocery,Sugar,Trust,1 Unit,203,228.02,30,25
+1221,SKU1221,Organic India Sugar 1,Grocery,Sugar,Organic India,1 Unit,21,24.29,365,91
+1222,SKU1222,Organic India Sugar 2,Grocery,Sugar,Organic India,1 Unit,399,510.03,180,25
+1223,SKU1223,Organic India Sugar 3,Grocery,Sugar,Organic India,1 Unit,78,103.32,365,53
+1224,SKU1224,Organic India Sugar 4,Grocery,Sugar,Organic India,1 Unit,286,374.25,90,29
+1225,SKU1225,Organic India Sugar 5,Grocery,Sugar,Organic India,1 Unit,139,170.33,30,48
+1226,SKU1226,Organic India Sugar 6,Grocery,Sugar,Organic India,1 Unit,280,369.71,365,81
+1227,SKU1227,Organic India Sugar 7,Grocery,Sugar,Organic India,1 Unit,65,79.56,30,65
+1228,SKU1228,Organic India Sugar 8,Grocery,Sugar,Organic India,1 Unit,315,355.7,730,39
+1229,SKU1229,Organic India Sugar 9,Grocery,Sugar,Organic India,1 Unit,114,128.42,730,56
+1230,SKU1230,Organic India Sugar 10,Grocery,Sugar,Organic India,1 Unit,444,530.98,180,100
+1231,SKU1231,Organic India Sugar 11,Grocery,Sugar,Organic India,1 Unit,220,252.56,90,96
+1232,SKU1232,Organic India Sugar 12,Grocery,Sugar,Organic India,1 Unit,231,259.07,30,73
+1233,SKU1233,Organic India Sugar 13,Grocery,Sugar,Organic India,1 Unit,53,63.31,365,82
+1234,SKU1234,Organic India Sugar 14,Grocery,Sugar,Organic India,1 Unit,415,528.61,730,55
+1235,SKU1235,Organic India Sugar 15,Grocery,Sugar,Organic India,1 Unit,475,627.08,180,44
+1236,SKU1236,Organic India Sugar 16,Grocery,Sugar,Organic India,1 Unit,235,299.37,730,50
+1237,SKU1237,Organic India Sugar 17,Grocery,Sugar,Organic India,1 Unit,135,167.63,730,94
+1238,SKU1238,Organic India Sugar 18,Grocery,Sugar,Organic India,1 Unit,361,428.21,90,41
+1239,SKU1239,Organic India Sugar 19,Grocery,Sugar,Organic India,1 Unit,485,575.16,365,27
+1240,SKU1240,Organic India Sugar 20,Grocery,Sugar,Organic India,1 Unit,264,295.83,180,33
+1241,SKU1241,Amul Milk 1,Dairy,Milk,Amul,1 Unit,492,614.08,365,24
+1242,SKU1242,Amul Milk 2,Dairy,Milk,Amul,1 Unit,72,79.94,30,89
+1243,SKU1243,Amul Milk 3,Dairy,Milk,Amul,1 Unit,171,206.87,180,46
+1244,SKU1244,Amul Milk 4,Dairy,Milk,Amul,1 Unit,131,168.58,365,71
+1245,SKU1245,Amul Milk 5,Dairy,Milk,Amul,1 Unit,317,427.57,180,35
+1246,SKU1246,Amul Milk 6,Dairy,Milk,Amul,1 Unit,153,203.73,730,74
+1247,SKU1247,Amul Milk 7,Dairy,Milk,Amul,1 Unit,180,237.4,90,89
+1248,SKU1248,Amul Milk 8,Dairy,Milk,Amul,1 Unit,412,514.05,365,23
+1249,SKU1249,Amul Milk 9,Dairy,Milk,Amul,1 Unit,471,597.26,730,28
+1250,SKU1250,Amul Milk 10,Dairy,Milk,Amul,1 Unit,316,392.01,180,86
+1251,SKU1251,Amul Milk 11,Dairy,Milk,Amul,1 Unit,154,196.9,30,68
+1252,SKU1252,Amul Milk 12,Dairy,Milk,Amul,1 Unit,289,350.78,365,38
+1253,SKU1253,Amul Milk 13,Dairy,Milk,Amul,1 Unit,394,486.32,90,59
+1254,SKU1254,Amul Milk 14,Dairy,Milk,Amul,1 Unit,195,222.41,730,69
+1255,SKU1255,Amul Milk 15,Dairy,Milk,Amul,1 Unit,113,152.45,30,94
+1256,SKU1256,Amul Milk 16,Dairy,Milk,Amul,1 Unit,149,178.03,180,52
+1257,SKU1257,Amul Milk 17,Dairy,Milk,Amul,1 Unit,36,42.84,365,41
+1258,SKU1258,Amul Milk 18,Dairy,Milk,Amul,1 Unit,221,291.82,730,30
+1259,SKU1259,Amul Milk 19,Dairy,Milk,Amul,1 Unit,25,30.43,90,88
+1260,SKU1260,Amul Milk 20,Dairy,Milk,Amul,1 Unit,441,502.96,90,82
+1261,SKU1261,Mother Dairy Milk 1,Dairy,Milk,Mother Dairy,1 Unit,319,378.15,365,77
+1262,SKU1262,Mother Dairy Milk 2,Dairy,Milk,Mother Dairy,1 Unit,312,354.51,730,31
+1263,SKU1263,Mother Dairy Milk 3,Dairy,Milk,Mother Dairy,1 Unit,202,267.3,730,80
+1264,SKU1264,Mother Dairy Milk 4,Dairy,Milk,Mother Dairy,1 Unit,93,104.69,730,32
+1265,SKU1265,Mother Dairy Milk 5,Dairy,Milk,Mother Dairy,1 Unit,179,233.58,730,40
+1266,SKU1266,Mother Dairy Milk 6,Dairy,Milk,Mother Dairy,1 Unit,68,75.1,90,88
+1267,SKU1267,Mother Dairy Milk 7,Dairy,Milk,Mother Dairy,1 Unit,247,286.93,730,38
+1268,SKU1268,Mother Dairy Milk 8,Dairy,Milk,Mother Dairy,1 Unit,381,496.35,180,42
+1269,SKU1269,Mother Dairy Milk 9,Dairy,Milk,Mother Dairy,1 Unit,133,177.24,730,20
+1270,SKU1270,Mother Dairy Milk 10,Dairy,Milk,Mother Dairy,1 Unit,366,445.52,180,44
+1271,SKU1271,Mother Dairy Milk 11,Dairy,Milk,Mother Dairy,1 Unit,54,59.88,730,56
+1272,SKU1272,Mother Dairy Milk 12,Dairy,Milk,Mother Dairy,1 Unit,488,623.22,30,52
+1273,SKU1273,Mother Dairy Milk 13,Dairy,Milk,Mother Dairy,1 Unit,149,186.16,365,38
+1274,SKU1274,Mother Dairy Milk 14,Dairy,Milk,Mother Dairy,1 Unit,129,147.52,180,71
+1275,SKU1275,Mother Dairy Milk 15,Dairy,Milk,Mother Dairy,1 Unit,498,631.35,365,66
+1276,SKU1276,Mother Dairy Milk 16,Dairy,Milk,Mother Dairy,1 Unit,70,90.17,730,33
+1277,SKU1277,Mother Dairy Milk 17,Dairy,Milk,Mother Dairy,1 Unit,136,164.93,365,55
+1278,SKU1278,Mother Dairy Milk 18,Dairy,Milk,Mother Dairy,1 Unit,306,399.58,365,81
+1279,SKU1279,Mother Dairy Milk 19,Dairy,Milk,Mother Dairy,1 Unit,34,41.5,180,80
+1280,SKU1280,Mother Dairy Milk 20,Dairy,Milk,Mother Dairy,1 Unit,158,210.89,90,94
+1281,SKU1281,Amul Butter 1,Dairy,Butter,Amul,1 Unit,284,382.84,30,73
+1282,SKU1282,Amul Butter 2,Dairy,Butter,Amul,1 Unit,352,457.53,30,50
+1283,SKU1283,Amul Butter 3,Dairy,Butter,Amul,1 Unit,290,351.01,30,57
+1284,SKU1284,Amul Butter 4,Dairy,Butter,Amul,1 Unit,248,326.68,30,69
+1285,SKU1285,Amul Butter 5,Dairy,Butter,Amul,1 Unit,270,347.15,730,58
+1286,SKU1286,Amul Butter 6,Dairy,Butter,Amul,1 Unit,160,188.16,730,93
+1287,SKU1287,Amul Butter 7,Dairy,Butter,Amul,1 Unit,136,157.72,180,84
+1288,SKU1288,Amul Butter 8,Dairy,Butter,Amul,1 Unit,314,366.15,730,51
+1289,SKU1289,Amul Butter 9,Dairy,Butter,Amul,1 Unit,27,31.18,180,30
+1290,SKU1290,Amul Butter 10,Dairy,Butter,Amul,1 Unit,239,274.11,730,28
+1291,SKU1291,Amul Butter 11,Dairy,Butter,Amul,1 Unit,35,46.38,730,84
+1292,SKU1292,Amul Butter 12,Dairy,Butter,Amul,1 Unit,440,540.54,180,48
+1293,SKU1293,Amul Butter 13,Dairy,Butter,Amul,1 Unit,419,516.18,180,66
+1294,SKU1294,Amul Butter 14,Dairy,Butter,Amul,1 Unit,227,298.49,730,54
+1295,SKU1295,Amul Butter 15,Dairy,Butter,Amul,1 Unit,343,419.11,30,87
+1296,SKU1296,Amul Butter 16,Dairy,Butter,Amul,1 Unit,182,201.83,365,48
+1297,SKU1297,Amul Butter 17,Dairy,Butter,Amul,1 Unit,102,121.2,180,22
+1298,SKU1298,Amul Butter 18,Dairy,Butter,Amul,1 Unit,493,594.06,365,83
+1299,SKU1299,Amul Butter 19,Dairy,Butter,Amul,1 Unit,32,37.39,180,70
+1300,SKU1300,Amul Butter 20,Dairy,Butter,Amul,1 Unit,127,159.6,365,80
+1301,SKU1301,Britannia Butter 1,Dairy,Butter,Britannia,1 Unit,427,494.15,90,44
+1302,SKU1302,Britannia Butter 2,Dairy,Butter,Britannia,1 Unit,410,523.98,180,96
+1303,SKU1303,Britannia Butter 3,Dairy,Butter,Britannia,1 Unit,48,53.54,180,28
+1304,SKU1304,Britannia Butter 4,Dairy,Butter,Britannia,1 Unit,486,641.09,365,74
+1305,SKU1305,Britannia Butter 5,Dairy,Butter,Britannia,1 Unit,168,212.74,90,41
+1306,SKU1306,Britannia Butter 6,Dairy,Butter,Britannia,1 Unit,430,513.61,730,100
+1307,SKU1307,Britannia Butter 7,Dairy,Butter,Britannia,1 Unit,226,295.88,90,56
+1308,SKU1308,Britannia Butter 8,Dairy,Butter,Britannia,1 Unit,231,279.16,90,91
+1309,SKU1309,Britannia Butter 9,Dairy,Butter,Britannia,1 Unit,327,415.39,730,20
+1310,SKU1310,Britannia Butter 10,Dairy,Butter,Britannia,1 Unit,236,269.06,730,99
+1311,SKU1311,Britannia Butter 11,Dairy,Butter,Britannia,1 Unit,414,485.39,180,93
+1312,SKU1312,Britannia Butter 12,Dairy,Butter,Britannia,1 Unit,103,116.66,90,51
+1313,SKU1313,Britannia Butter 13,Dairy,Butter,Britannia,1 Unit,211,278.45,730,54
+1314,SKU1314,Britannia Butter 14,Dairy,Butter,Britannia,1 Unit,408,475.32,365,93
+1315,SKU1315,Britannia Butter 15,Dairy,Butter,Britannia,1 Unit,172,202.07,730,85
+1316,SKU1316,Britannia Butter 16,Dairy,Butter,Britannia,1 Unit,108,144.55,730,27
+1317,SKU1317,Britannia Butter 17,Dairy,Butter,Britannia,1 Unit,232,305.91,30,86
+1318,SKU1318,Britannia Butter 18,Dairy,Butter,Britannia,1 Unit,429,508.65,90,23
+1319,SKU1319,Britannia Butter 19,Dairy,Butter,Britannia,1 Unit,405,491.59,730,63
+1320,SKU1320,Britannia Butter 20,Dairy,Butter,Britannia,1 Unit,124,166.47,180,55
+1321,SKU1321,Amul Cheese 1,Dairy,Cheese,Amul,1 Unit,223,297.61,730,49
+1322,SKU1322,Amul Cheese 2,Dairy,Cheese,Amul,1 Unit,264,292.53,365,45
+1323,SKU1323,Amul Cheese 3,Dairy,Cheese,Amul,1 Unit,379,481.19,90,35
+1324,SKU1324,Amul Cheese 4,Dairy,Cheese,Amul,1 Unit,392,477.09,730,70
+1325,SKU1325,Amul Cheese 5,Dairy,Cheese,Amul,1 Unit,287,377.25,365,21
+1326,SKU1326,Amul Cheese 6,Dairy,Cheese,Amul,1 Unit,310,378.95,90,67
+1327,SKU1327,Amul Cheese 7,Dairy,Cheese,Amul,1 Unit,277,350.15,90,62
+1328,SKU1328,Amul Cheese 8,Dairy,Cheese,Amul,1 Unit,288,321.62,30,95
+1329,SKU1329,Amul Cheese 9,Dairy,Cheese,Amul,1 Unit,162,196.64,30,50
+1330,SKU1330,Amul Cheese 10,Dairy,Cheese,Amul,1 Unit,348,404.62,730,48
+1331,SKU1331,Amul Cheese 11,Dairy,Cheese,Amul,1 Unit,299,345.91,365,78
+1332,SKU1332,Amul Cheese 12,Dairy,Cheese,Amul,1 Unit,396,489.82,180,61
+1333,SKU1333,Amul Cheese 13,Dairy,Cheese,Amul,1 Unit,24,32.3,180,72
+1334,SKU1334,Amul Cheese 14,Dairy,Cheese,Amul,1 Unit,242,290.91,730,75
+1335,SKU1335,Amul Cheese 15,Dairy,Cheese,Amul,1 Unit,326,426.63,730,94
+1336,SKU1336,Amul Cheese 16,Dairy,Cheese,Amul,1 Unit,131,156.82,730,47
+1337,SKU1337,Amul Cheese 17,Dairy,Cheese,Amul,1 Unit,203,250.97,90,29
+1338,SKU1338,Amul Cheese 18,Dairy,Cheese,Amul,1 Unit,139,180.98,365,70
+1339,SKU1339,Amul Cheese 19,Dairy,Cheese,Amul,1 Unit,295,354.08,180,49
+1340,SKU1340,Amul Cheese 20,Dairy,Cheese,Amul,1 Unit,263,291.09,180,88
+1341,SKU1341,Britannia Cheese 1,Dairy,Cheese,Britannia,1 Unit,415,495.57,90,64
+1342,SKU1342,Britannia Cheese 2,Dairy,Cheese,Britannia,1 Unit,164,201.7,365,53
+1343,SKU1343,Britannia Cheese 3,Dairy,Cheese,Britannia,1 Unit,51,60.88,90,27
+1344,SKU1344,Britannia Cheese 4,Dairy,Cheese,Britannia,1 Unit,332,416.89,30,81
+1345,SKU1345,Britannia Cheese 5,Dairy,Cheese,Britannia,1 Unit,290,337.89,180,60
+1346,SKU1346,Britannia Cheese 6,Dairy,Cheese,Britannia,1 Unit,200,266.96,180,26
+1347,SKU1347,Britannia Cheese 7,Dairy,Cheese,Britannia,1 Unit,231,258.05,730,83
+1348,SKU1348,Britannia Cheese 8,Dairy,Cheese,Britannia,1 Unit,200,266.43,365,54
+1349,SKU1349,Britannia Cheese 9,Dairy,Cheese,Britannia,1 Unit,182,202.46,30,35
+1350,SKU1350,Britannia Cheese 10,Dairy,Cheese,Britannia,1 Unit,414,549.17,90,60
+1351,SKU1351,Britannia Cheese 11,Dairy,Cheese,Britannia,1 Unit,265,343.67,180,24
+1352,SKU1352,Britannia Cheese 12,Dairy,Cheese,Britannia,1 Unit,388,498.25,90,92
+1353,SKU1353,Britannia Cheese 13,Dairy,Cheese,Britannia,1 Unit,414,529.83,90,37
+1354,SKU1354,Britannia Cheese 14,Dairy,Cheese,Britannia,1 Unit,358,403.16,730,79
+1355,SKU1355,Britannia Cheese 15,Dairy,Cheese,Britannia,1 Unit,104,120.11,365,66
+1356,SKU1356,Britannia Cheese 16,Dairy,Cheese,Britannia,1 Unit,235,286.33,180,61
+1357,SKU1357,Britannia Cheese 17,Dairy,Cheese,Britannia,1 Unit,158,176.79,180,53
+1358,SKU1358,Britannia Cheese 18,Dairy,Cheese,Britannia,1 Unit,500,672.02,30,73
+1359,SKU1359,Britannia Cheese 19,Dairy,Cheese,Britannia,1 Unit,386,486.06,730,88
+1360,SKU1360,Britannia Cheese 20,Dairy,Cheese,Britannia,1 Unit,369,415.45,180,74
+1361,SKU1361,Lay's Chips 1,Snacks,Chips,Lay's,1 Unit,37,41.97,180,34
+1362,SKU1362,Lay's Chips 2,Snacks,Chips,Lay's,1 Unit,421,466.63,180,31
+1363,SKU1363,Lay's Chips 3,Snacks,Chips,Lay's,1 Unit,171,208.52,365,40
+1364,SKU1364,Lay's Chips 4,Snacks,Chips,Lay's,1 Unit,70,87.81,365,74
+1365,SKU1365,Lay's Chips 5,Snacks,Chips,Lay's,1 Unit,135,180.95,30,76
+1366,SKU1366,Lay's Chips 6,Snacks,Chips,Lay's,1 Unit,128,172.1,730,93
+1367,SKU1367,Lay's Chips 7,Snacks,Chips,Lay's,1 Unit,140,175.16,90,41
+1368,SKU1368,Lay's Chips 8,Snacks,Chips,Lay's,1 Unit,150,192.65,90,98
+1369,SKU1369,Lay's Chips 9,Snacks,Chips,Lay's,1 Unit,224,264.21,90,91
+1370,SKU1370,Lay's Chips 10,Snacks,Chips,Lay's,1 Unit,213,253.5,90,34
+1371,SKU1371,Lay's Chips 11,Snacks,Chips,Lay's,1 Unit,480,536.12,180,52
+1372,SKU1372,Lay's Chips 12,Snacks,Chips,Lay's,1 Unit,420,464.35,30,88
+1373,SKU1373,Lay's Chips 13,Snacks,Chips,Lay's,1 Unit,85,113.47,90,23
+1374,SKU1374,Lay's Chips 14,Snacks,Chips,Lay's,1 Unit,257,328.19,730,82
+1375,SKU1375,Lay's Chips 15,Snacks,Chips,Lay's,1 Unit,303,397.18,90,66
+1376,SKU1376,Lay's Chips 16,Snacks,Chips,Lay's,1 Unit,453,577.43,90,53
+1377,SKU1377,Lay's Chips 17,Snacks,Chips,Lay's,1 Unit,50,57.57,730,68
+1378,SKU1378,Lay's Chips 18,Snacks,Chips,Lay's,1 Unit,95,124.08,365,47
+1379,SKU1379,Lay's Chips 19,Snacks,Chips,Lay's,1 Unit,313,390.06,180,96
+1380,SKU1380,Lay's Chips 20,Snacks,Chips,Lay's,1 Unit,332,395.72,90,62
+1381,SKU1381,Kurkure Chips 1,Snacks,Chips,Kurkure,1 Unit,478,534.14,180,27
+1382,SKU1382,Kurkure Chips 2,Snacks,Chips,Kurkure,1 Unit,53,64.94,730,60
+1383,SKU1383,Kurkure Chips 3,Snacks,Chips,Kurkure,1 Unit,422,487.42,180,30
+1384,SKU1384,Kurkure Chips 4,Snacks,Chips,Kurkure,1 Unit,134,156.71,30,45
+1385,SKU1385,Kurkure Chips 5,Snacks,Chips,Kurkure,1 Unit,428,574.24,180,99
+1386,SKU1386,Kurkure Chips 6,Snacks,Chips,Kurkure,1 Unit,422,546.71,365,98
+1387,SKU1387,Kurkure Chips 7,Snacks,Chips,Kurkure,1 Unit,334,390.56,365,97
+1388,SKU1388,Kurkure Chips 8,Snacks,Chips,Kurkure,1 Unit,23,25.36,180,40
+1389,SKU1389,Kurkure Chips 9,Snacks,Chips,Kurkure,1 Unit,485,585.06,365,84
+1390,SKU1390,Kurkure Chips 10,Snacks,Chips,Kurkure,1 Unit,79,100.37,365,77
+1391,SKU1391,Kurkure Chips 11,Snacks,Chips,Kurkure,1 Unit,89,98.98,365,35
+1392,SKU1392,Kurkure Chips 12,Snacks,Chips,Kurkure,1 Unit,289,387.39,730,92
+1393,SKU1393,Kurkure Chips 13,Snacks,Chips,Kurkure,1 Unit,242,268.64,30,33
+1394,SKU1394,Kurkure Chips 14,Snacks,Chips,Kurkure,1 Unit,390,470.34,180,77
+1395,SKU1395,Kurkure Chips 15,Snacks,Chips,Kurkure,1 Unit,255,333.6,365,86
+1396,SKU1396,Kurkure Chips 16,Snacks,Chips,Kurkure,1 Unit,131,145.05,365,36
+1397,SKU1397,Kurkure Chips 17,Snacks,Chips,Kurkure,1 Unit,84,102.08,90,45
+1398,SKU1398,Kurkure Chips 18,Snacks,Chips,Kurkure,1 Unit,213,235.2,730,22
+1399,SKU1399,Kurkure Chips 19,Snacks,Chips,Kurkure,1 Unit,185,209.09,180,79
+1400,SKU1400,Kurkure Chips 20,Snacks,Chips,Kurkure,1 Unit,371,497.23,365,92
+1401,SKU1401,Britannia Biscuits 1,Snacks,Biscuits,Britannia,1 Unit,75,87.54,30,87
+1402,SKU1402,Britannia Biscuits 2,Snacks,Biscuits,Britannia,1 Unit,51,57.44,30,78
+1403,SKU1403,Britannia Biscuits 3,Snacks,Biscuits,Britannia,1 Unit,481,562.61,30,39
+1404,SKU1404,Britannia Biscuits 4,Snacks,Biscuits,Britannia,1 Unit,323,435.36,180,91
+1405,SKU1405,Britannia Biscuits 5,Snacks,Biscuits,Britannia,1 Unit,193,222.11,90,87
+1406,SKU1406,Britannia Biscuits 6,Snacks,Biscuits,Britannia,1 Unit,351,402.97,30,94
+1407,SKU1407,Britannia Biscuits 7,Snacks,Biscuits,Britannia,1 Unit,77,95.35,180,100
+1408,SKU1408,Britannia Biscuits 8,Snacks,Biscuits,Britannia,1 Unit,70,83.66,730,78
+1409,SKU1409,Britannia Biscuits 9,Snacks,Biscuits,Britannia,1 Unit,435,478.84,180,84
+1410,SKU1410,Britannia Biscuits 10,Snacks,Biscuits,Britannia,1 Unit,57,70.17,90,100
+1411,SKU1411,Britannia Biscuits 11,Snacks,Biscuits,Britannia,1 Unit,485,571.32,180,89
+1412,SKU1412,Britannia Biscuits 12,Snacks,Biscuits,Britannia,1 Unit,304,335.24,730,83
+1413,SKU1413,Britannia Biscuits 13,Snacks,Biscuits,Britannia,1 Unit,37,43.45,730,38
+1414,SKU1414,Britannia Biscuits 14,Snacks,Biscuits,Britannia,1 Unit,90,105.58,180,78
+1415,SKU1415,Britannia Biscuits 15,Snacks,Biscuits,Britannia,1 Unit,112,144.69,90,68
+1416,SKU1416,Britannia Biscuits 16,Snacks,Biscuits,Britannia,1 Unit,102,131.99,365,28
+1417,SKU1417,Britannia Biscuits 17,Snacks,Biscuits,Britannia,1 Unit,121,162.05,730,94
+1418,SKU1418,Britannia Biscuits 18,Snacks,Biscuits,Britannia,1 Unit,358,466.16,180,83
+1419,SKU1419,Britannia Biscuits 19,Snacks,Biscuits,Britannia,1 Unit,360,414.51,90,79
+1420,SKU1420,Britannia Biscuits 20,Snacks,Biscuits,Britannia,1 Unit,490,556.21,180,82
+1421,SKU1421,Parle Biscuits 1,Snacks,Biscuits,Parle,1 Unit,472,537.66,180,26
+1422,SKU1422,Parle Biscuits 2,Snacks,Biscuits,Parle,1 Unit,290,341.22,730,21
+1423,SKU1423,Parle Biscuits 3,Snacks,Biscuits,Parle,1 Unit,211,269.31,90,74
+1424,SKU1424,Parle Biscuits 4,Snacks,Biscuits,Parle,1 Unit,275,340.43,30,29
+1425,SKU1425,Parle Biscuits 5,Snacks,Biscuits,Parle,1 Unit,201,234.76,90,74
+1426,SKU1426,Parle Biscuits 6,Snacks,Biscuits,Parle,1 Unit,72,95.4,365,48
+1427,SKU1427,Parle Biscuits 7,Snacks,Biscuits,Parle,1 Unit,336,372.11,365,39
+1428,SKU1428,Parle Biscuits 8,Snacks,Biscuits,Parle,1 Unit,91,102.38,90,20
+1429,SKU1429,Parle Biscuits 9,Snacks,Biscuits,Parle,1 Unit,114,148.36,365,41
+1430,SKU1430,Parle Biscuits 10,Snacks,Biscuits,Parle,1 Unit,280,344.31,180,52
+1431,SKU1431,Parle Biscuits 11,Snacks,Biscuits,Parle,1 Unit,347,432.47,365,36
+1432,SKU1432,Parle Biscuits 12,Snacks,Biscuits,Parle,1 Unit,66,79.08,180,64
+1433,SKU1433,Parle Biscuits 13,Snacks,Biscuits,Parle,1 Unit,441,497.61,180,42
+1434,SKU1434,Parle Biscuits 14,Snacks,Biscuits,Parle,1 Unit,457,585.21,365,88
+1435,SKU1435,Parle Biscuits 15,Snacks,Biscuits,Parle,1 Unit,285,349.55,365,43
+1436,SKU1436,Parle Biscuits 16,Snacks,Biscuits,Parle,1 Unit,259,334.06,365,57
+1437,SKU1437,Parle Biscuits 17,Snacks,Biscuits,Parle,1 Unit,468,595.49,730,44
+1438,SKU1438,Parle Biscuits 18,Snacks,Biscuits,Parle,1 Unit,418,506.43,730,49
+1439,SKU1439,Parle Biscuits 19,Snacks,Biscuits,Parle,1 Unit,493,623.92,90,88
+1440,SKU1440,Parle Biscuits 20,Snacks,Biscuits,Parle,1 Unit,500,673.49,90,79
+1441,SKU1441,Tata Tea Tea 1,Beverages,Tea,Tata Tea,1 Unit,205,276.19,30,88
+1442,SKU1442,Tata Tea Tea 2,Beverages,Tea,Tata Tea,1 Unit,340,434.83,730,96
+1443,SKU1443,Tata Tea Tea 3,Beverages,Tea,Tata Tea,1 Unit,489,610.24,30,60
+1444,SKU1444,Tata Tea Tea 4,Beverages,Tea,Tata Tea,1 Unit,92,111.11,180,47
+1445,SKU1445,Tata Tea Tea 5,Beverages,Tea,Tata Tea,1 Unit,456,606.15,730,84
+1446,SKU1446,Tata Tea Tea 6,Beverages,Tea,Tata Tea,1 Unit,399,488.41,180,36
+1447,SKU1447,Tata Tea Tea 7,Beverages,Tea,Tata Tea,1 Unit,297,386.89,30,22
+1448,SKU1448,Tata Tea Tea 8,Beverages,Tea,Tata Tea,1 Unit,344,384.49,365,35
+1449,SKU1449,Tata Tea Tea 9,Beverages,Tea,Tata Tea,1 Unit,146,162.23,730,72
+1450,SKU1450,Tata Tea Tea 10,Beverages,Tea,Tata Tea,1 Unit,271,307.51,30,34
+1451,SKU1451,Tata Tea Tea 11,Beverages,Tea,Tata Tea,1 Unit,323,378.4,90,25
+1452,SKU1452,Tata Tea Tea 12,Beverages,Tea,Tata Tea,1 Unit,373,429.14,30,40
+1453,SKU1453,Tata Tea Tea 13,Beverages,Tea,Tata Tea,1 Unit,189,208.34,730,39
+1454,SKU1454,Tata Tea Tea 14,Beverages,Tea,Tata Tea,1 Unit,445,541.18,365,95
+1455,SKU1455,Tata Tea Tea 15,Beverages,Tea,Tata Tea,1 Unit,412,462.13,90,20
+1456,SKU1456,Tata Tea Tea 16,Beverages,Tea,Tata Tea,1 Unit,255,303.52,365,48
+1457,SKU1457,Tata Tea Tea 17,Beverages,Tea,Tata Tea,1 Unit,476,580.32,90,98
+1458,SKU1458,Tata Tea Tea 18,Beverages,Tea,Tata Tea,1 Unit,165,222.09,30,74
+1459,SKU1459,Tata Tea Tea 19,Beverages,Tea,Tata Tea,1 Unit,158,206.39,730,66
+1460,SKU1460,Tata Tea Tea 20,Beverages,Tea,Tata Tea,1 Unit,248,297.82,365,80
+1461,SKU1461,Red Label Tea 1,Beverages,Tea,Red Label,1 Unit,484,644.08,180,95
+1462,SKU1462,Red Label Tea 2,Beverages,Tea,Red Label,1 Unit,467,545.18,730,58
+1463,SKU1463,Red Label Tea 3,Beverages,Tea,Red Label,1 Unit,137,162.1,365,46
+1464,SKU1464,Red Label Tea 4,Beverages,Tea,Red Label,1 Unit,154,202.08,180,78
+1465,SKU1465,Red Label Tea 5,Beverages,Tea,Red Label,1 Unit,103,115.13,730,76
+1466,SKU1466,Red Label Tea 6,Beverages,Tea,Red Label,1 Unit,32,36.44,730,49
+1467,SKU1467,Red Label Tea 7,Beverages,Tea,Red Label,1 Unit,118,143.75,30,37
+1468,SKU1468,Red Label Tea 8,Beverages,Tea,Red Label,1 Unit,451,536.04,30,60
+1469,SKU1469,Red Label Tea 9,Beverages,Tea,Red Label,1 Unit,411,488.9,180,54
+1470,SKU1470,Red Label Tea 10,Beverages,Tea,Red Label,1 Unit,320,356.59,180,62
+1471,SKU1471,Red Label Tea 11,Beverages,Tea,Red Label,1 Unit,74,85.29,90,88
+1472,SKU1472,Red Label Tea 12,Beverages,Tea,Red Label,1 Unit,148,190.41,365,58
+1473,SKU1473,Red Label Tea 13,Beverages,Tea,Red Label,1 Unit,348,463.7,90,77
+1474,SKU1474,Red Label Tea 14,Beverages,Tea,Red Label,1 Unit,42,50.22,180,74
+1475,SKU1475,Red Label Tea 15,Beverages,Tea,Red Label,1 Unit,194,223.75,730,73
+1476,SKU1476,Red Label Tea 16,Beverages,Tea,Red Label,1 Unit,149,186.04,90,73
+1477,SKU1477,Red Label Tea 17,Beverages,Tea,Red Label,1 Unit,497,575.43,180,100
+1478,SKU1478,Red Label Tea 18,Beverages,Tea,Red Label,1 Unit,265,318.76,365,79
+1479,SKU1479,Red Label Tea 19,Beverages,Tea,Red Label,1 Unit,490,574.03,180,60
+1480,SKU1480,Red Label Tea 20,Beverages,Tea,Red Label,1 Unit,205,263.49,730,95
+1481,SKU1481,Nescafe Coffee 1,Beverages,Coffee,Nescafe,1 Unit,357,450.42,365,68
+1482,SKU1482,Nescafe Coffee 2,Beverages,Coffee,Nescafe,1 Unit,250,276.18,180,98
+1483,SKU1483,Nescafe Coffee 3,Beverages,Coffee,Nescafe,1 Unit,490,635.09,180,33
+1484,SKU1484,Nescafe Coffee 4,Beverages,Coffee,Nescafe,1 Unit,240,305.56,365,50
+1485,SKU1485,Nescafe Coffee 5,Beverages,Coffee,Nescafe,1 Unit,142,173.19,90,52
+1486,SKU1486,Nescafe Coffee 6,Beverages,Coffee,Nescafe,1 Unit,411,543.68,365,55
+1487,SKU1487,Nescafe Coffee 7,Beverages,Coffee,Nescafe,1 Unit,278,307.28,180,93
+1488,SKU1488,Nescafe Coffee 8,Beverages,Coffee,Nescafe,1 Unit,454,604.17,90,33
+1489,SKU1489,Nescafe Coffee 9,Beverages,Coffee,Nescafe,1 Unit,41,48.2,180,45
+1490,SKU1490,Nescafe Coffee 10,Beverages,Coffee,Nescafe,1 Unit,410,526.51,90,40
+1491,SKU1491,Nescafe Coffee 11,Beverages,Coffee,Nescafe,1 Unit,188,249.92,30,35
+1492,SKU1492,Nescafe Coffee 12,Beverages,Coffee,Nescafe,1 Unit,64,85.39,180,99
+1493,SKU1493,Nescafe Coffee 13,Beverages,Coffee,Nescafe,1 Unit,371,423.47,180,66
+1494,SKU1494,Nescafe Coffee 14,Beverages,Coffee,Nescafe,1 Unit,459,545.86,730,52
+1495,SKU1495,Nescafe Coffee 15,Beverages,Coffee,Nescafe,1 Unit,429,558.24,30,39
+1496,SKU1496,Nescafe Coffee 16,Beverages,Coffee,Nescafe,1 Unit,38,50.21,180,29
+1497,SKU1497,Nescafe Coffee 17,Beverages,Coffee,Nescafe,1 Unit,290,387.62,90,35
+1498,SKU1498,Nescafe Coffee 18,Beverages,Coffee,Nescafe,1 Unit,287,323.02,365,85
+1499,SKU1499,Nescafe Coffee 19,Beverages,Coffee,Nescafe,1 Unit,338,409.87,180,53
+1500,SKU1500,Nescafe Coffee 20,Beverages,Coffee,Nescafe,1 Unit,348,443.6,730,44
+1501,SKU1501,Bru Coffee 1,Beverages,Coffee,Bru,1 Unit,154,195.06,180,42
+1502,SKU1502,Bru Coffee 2,Beverages,Coffee,Bru,1 Unit,168,186.43,30,50
+1503,SKU1503,Bru Coffee 3,Beverages,Coffee,Bru,1 Unit,215,239.63,90,67
+1504,SKU1504,Bru Coffee 4,Beverages,Coffee,Bru,1 Unit,205,227.5,730,56
+1505,SKU1505,Bru Coffee 5,Beverages,Coffee,Bru,1 Unit,76,92.49,30,84
+1506,SKU1506,Bru Coffee 6,Beverages,Coffee,Bru,1 Unit,466,523.47,180,58
+1507,SKU1507,Bru Coffee 7,Beverages,Coffee,Bru,1 Unit,268,311.52,90,25
+1508,SKU1508,Bru Coffee 8,Beverages,Coffee,Bru,1 Unit,461,605.37,30,85
+1509,SKU1509,Bru Coffee 9,Beverages,Coffee,Bru,1 Unit,32,43.05,180,59
+1510,SKU1510,Bru Coffee 10,Beverages,Coffee,Bru,1 Unit,255,303.41,730,100
+1511,SKU1511,Bru Coffee 11,Beverages,Coffee,Bru,1 Unit,281,371.37,180,43
+1512,SKU1512,Bru Coffee 12,Beverages,Coffee,Bru,1 Unit,213,275.14,180,59
+1513,SKU1513,Bru Coffee 13,Beverages,Coffee,Bru,1 Unit,247,317.31,365,98
+1514,SKU1514,Bru Coffee 14,Beverages,Coffee,Bru,1 Unit,88,107.03,90,22
+1515,SKU1515,Bru Coffee 15,Beverages,Coffee,Bru,1 Unit,35,42.54,30,21
+1516,SKU1516,Bru Coffee 16,Beverages,Coffee,Bru,1 Unit,207,259.17,30,92
+1517,SKU1517,Bru Coffee 17,Beverages,Coffee,Bru,1 Unit,246,299.85,365,46
+1518,SKU1518,Bru Coffee 18,Beverages,Coffee,Bru,1 Unit,435,495.45,90,89
+1519,SKU1519,Bru Coffee 19,Beverages,Coffee,Bru,1 Unit,298,366.94,180,49
+1520,SKU1520,Bru Coffee 20,Beverages,Coffee,Bru,1 Unit,120,154.51,180,36
+1521,SKU1521,Dove Soap 1,Personal Care,Soap,Dove,1 Unit,240,278.66,730,97
+1522,SKU1522,Dove Soap 2,Personal Care,Soap,Dove,1 Unit,228,272.39,180,79
+1523,SKU1523,Dove Soap 3,Personal Care,Soap,Dove,1 Unit,273,358.08,30,31
+1524,SKU1524,Dove Soap 4,Personal Care,Soap,Dove,1 Unit,34,40.41,180,20
+1525,SKU1525,Dove Soap 5,Personal Care,Soap,Dove,1 Unit,253,339.24,30,80
+1526,SKU1526,Dove Soap 6,Personal Care,Soap,Dove,1 Unit,139,153.04,365,27
+1527,SKU1527,Dove Soap 7,Personal Care,Soap,Dove,1 Unit,447,586.43,730,49
+1528,SKU1528,Dove Soap 8,Personal Care,Soap,Dove,1 Unit,92,117.62,180,69
+1529,SKU1529,Dove Soap 9,Personal Care,Soap,Dove,1 Unit,418,466.96,90,29
+1530,SKU1530,Dove Soap 10,Personal Care,Soap,Dove,1 Unit,203,223.4,730,92
+1531,SKU1531,Dove Soap 11,Personal Care,Soap,Dove,1 Unit,178,214.47,730,83
+1532,SKU1532,Dove Soap 12,Personal Care,Soap,Dove,1 Unit,334,441.94,365,64
+1533,SKU1533,Dove Soap 13,Personal Care,Soap,Dove,1 Unit,497,576.82,730,72
+1534,SKU1534,Dove Soap 14,Personal Care,Soap,Dove,1 Unit,363,467.19,730,46
+1535,SKU1535,Dove Soap 15,Personal Care,Soap,Dove,1 Unit,168,223.99,180,81
+1536,SKU1536,Dove Soap 16,Personal Care,Soap,Dove,1 Unit,363,485.55,730,42
+1537,SKU1537,Dove Soap 17,Personal Care,Soap,Dove,1 Unit,232,259.31,30,24
+1538,SKU1538,Dove Soap 18,Personal Care,Soap,Dove,1 Unit,296,394.93,90,75
+1539,SKU1539,Dove Soap 19,Personal Care,Soap,Dove,1 Unit,316,370.8,90,48
+1540,SKU1540,Dove Soap 20,Personal Care,Soap,Dove,1 Unit,486,635.67,365,66
+1541,SKU1541,Lux Soap 1,Personal Care,Soap,Lux,1 Unit,55,71.91,730,64
+1542,SKU1542,Lux Soap 2,Personal Care,Soap,Lux,1 Unit,211,254.4,730,56
+1543,SKU1543,Lux Soap 3,Personal Care,Soap,Lux,1 Unit,310,415.27,180,68
+1544,SKU1544,Lux Soap 4,Personal Care,Soap,Lux,1 Unit,342,385.54,90,54
+1545,SKU1545,Lux Soap 5,Personal Care,Soap,Lux,1 Unit,31,35.78,90,50
+1546,SKU1546,Lux Soap 6,Personal Care,Soap,Lux,1 Unit,27,36.16,365,40
+1547,SKU1547,Lux Soap 7,Personal Care,Soap,Lux,1 Unit,245,302.95,30,99
+1548,SKU1548,Lux Soap 8,Personal Care,Soap,Lux,1 Unit,447,568.18,30,42
+1549,SKU1549,Lux Soap 9,Personal Care,Soap,Lux,1 Unit,267,351.6,180,71
+1550,SKU1550,Lux Soap 10,Personal Care,Soap,Lux,1 Unit,296,363.19,180,81
+1551,SKU1551,Lux Soap 11,Personal Care,Soap,Lux,1 Unit,184,221.1,90,85
+1552,SKU1552,Lux Soap 12,Personal Care,Soap,Lux,1 Unit,478,546.75,180,34
+1553,SKU1553,Lux Soap 13,Personal Care,Soap,Lux,1 Unit,369,493.11,30,66
+1554,SKU1554,Lux Soap 14,Personal Care,Soap,Lux,1 Unit,369,482.25,365,31
+1555,SKU1555,Lux Soap 15,Personal Care,Soap,Lux,1 Unit,252,309.03,180,91
+1556,SKU1556,Lux Soap 16,Personal Care,Soap,Lux,1 Unit,85,103.28,90,88
+1557,SKU1557,Lux Soap 17,Personal Care,Soap,Lux,1 Unit,383,503.16,180,20
+1558,SKU1558,Lux Soap 18,Personal Care,Soap,Lux,1 Unit,270,309.15,90,82
+1559,SKU1559,Lux Soap 19,Personal Care,Soap,Lux,1 Unit,373,445.87,730,28
+1560,SKU1560,Lux Soap 20,Personal Care,Soap,Lux,1 Unit,302,383.33,30,64
+1561,SKU1561,Lifebuoy Soap 1,Personal Care,Soap,Lifebuoy,1 Unit,415,536.15,90,41
+1562,SKU1562,Lifebuoy Soap 2,Personal Care,Soap,Lifebuoy,1 Unit,368,493.57,30,21
+1563,SKU1563,Lifebuoy Soap 3,Personal Care,Soap,Lifebuoy,1 Unit,274,346.09,180,33
+1564,SKU1564,Lifebuoy Soap 4,Personal Care,Soap,Lifebuoy,1 Unit,254,306.63,180,84
+1565,SKU1565,Lifebuoy Soap 5,Personal Care,Soap,Lifebuoy,1 Unit,278,366.25,730,57
+1566,SKU1566,Lifebuoy Soap 6,Personal Care,Soap,Lifebuoy,1 Unit,26,32.29,90,39
+1567,SKU1567,Lifebuoy Soap 7,Personal Care,Soap,Lifebuoy,1 Unit,140,154.85,30,73
+1568,SKU1568,Lifebuoy Soap 8,Personal Care,Soap,Lifebuoy,1 Unit,146,174.31,90,85
+1569,SKU1569,Lifebuoy Soap 9,Personal Care,Soap,Lifebuoy,1 Unit,240,307.33,730,99
+1570,SKU1570,Lifebuoy Soap 10,Personal Care,Soap,Lifebuoy,1 Unit,51,65.11,180,96
+1571,SKU1571,Lifebuoy Soap 11,Personal Care,Soap,Lifebuoy,1 Unit,216,284.75,90,23
+1572,SKU1572,Lifebuoy Soap 12,Personal Care,Soap,Lifebuoy,1 Unit,67,88.17,365,41
+1573,SKU1573,Lifebuoy Soap 13,Personal Care,Soap,Lifebuoy,1 Unit,234,303.04,180,69
+1574,SKU1574,Lifebuoy Soap 14,Personal Care,Soap,Lifebuoy,1 Unit,369,415.96,365,53
+1575,SKU1575,Lifebuoy Soap 15,Personal Care,Soap,Lifebuoy,1 Unit,227,251.58,180,54
+1576,SKU1576,Lifebuoy Soap 16,Personal Care,Soap,Lifebuoy,1 Unit,316,389.13,180,87
+1577,SKU1577,Lifebuoy Soap 17,Personal Care,Soap,Lifebuoy,1 Unit,397,485.55,180,98
+1578,SKU1578,Lifebuoy Soap 18,Personal Care,Soap,Lifebuoy,1 Unit,391,442.48,365,64
+1579,SKU1579,Lifebuoy Soap 19,Personal Care,Soap,Lifebuoy,1 Unit,197,237.77,30,36
+1580,SKU1580,Lifebuoy Soap 20,Personal Care,Soap,Lifebuoy,1 Unit,67,89.53,90,94
+1581,SKU1581,Clinic Plus Shampoo 1,Personal Care,Shampoo,Clinic Plus,1 Unit,149,196.03,180,66
+1582,SKU1582,Clinic Plus Shampoo 2,Personal Care,Shampoo,Clinic Plus,1 Unit,478,615.88,180,68
+1583,SKU1583,Clinic Plus Shampoo 3,Personal Care,Shampoo,Clinic Plus,1 Unit,386,502.96,180,35
+1584,SKU1584,Clinic Plus Shampoo 4,Personal Care,Shampoo,Clinic Plus,1 Unit,195,217.54,180,29
+1585,SKU1585,Clinic Plus Shampoo 5,Personal Care,Shampoo,Clinic Plus,1 Unit,364,402.43,180,33
+1586,SKU1586,Clinic Plus Shampoo 6,Personal Care,Shampoo,Clinic Plus,1 Unit,105,120.4,180,99
+1587,SKU1587,Clinic Plus Shampoo 7,Personal Care,Shampoo,Clinic Plus,1 Unit,365,447.35,730,63
+1588,SKU1588,Clinic Plus Shampoo 8,Personal Care,Shampoo,Clinic Plus,1 Unit,163,208.44,90,64
+1589,SKU1589,Clinic Plus Shampoo 9,Personal Care,Shampoo,Clinic Plus,1 Unit,492,578.59,730,41
+1590,SKU1590,Clinic Plus Shampoo 10,Personal Care,Shampoo,Clinic Plus,1 Unit,425,554.38,30,76
+1591,SKU1591,Clinic Plus Shampoo 11,Personal Care,Shampoo,Clinic Plus,1 Unit,479,533.59,730,24
+1592,SKU1592,Clinic Plus Shampoo 12,Personal Care,Shampoo,Clinic Plus,1 Unit,395,500.28,90,90
+1593,SKU1593,Clinic Plus Shampoo 13,Personal Care,Shampoo,Clinic Plus,1 Unit,242,300.63,365,84
+1594,SKU1594,Clinic Plus Shampoo 14,Personal Care,Shampoo,Clinic Plus,1 Unit,297,375.46,180,67
+1595,SKU1595,Clinic Plus Shampoo 15,Personal Care,Shampoo,Clinic Plus,1 Unit,267,350.98,180,47
+1596,SKU1596,Clinic Plus Shampoo 16,Personal Care,Shampoo,Clinic Plus,1 Unit,485,567.59,365,44
+1597,SKU1597,Clinic Plus Shampoo 17,Personal Care,Shampoo,Clinic Plus,1 Unit,79,104.11,180,81
+1598,SKU1598,Clinic Plus Shampoo 18,Personal Care,Shampoo,Clinic Plus,1 Unit,126,141.87,730,37
+1599,SKU1599,Clinic Plus Shampoo 19,Personal Care,Shampoo,Clinic Plus,1 Unit,343,452.96,730,47
+1600,SKU1600,Clinic Plus Shampoo 20,Personal Care,Shampoo,Clinic Plus,1 Unit,466,580.41,180,49
+1601,SKU1601,Pantene Shampoo 1,Personal Care,Shampoo,Pantene,1 Unit,275,340.59,180,43
+1602,SKU1602,Pantene Shampoo 2,Personal Care,Shampoo,Pantene,1 Unit,171,197.08,365,46
+1603,SKU1603,Pantene Shampoo 3,Personal Care,Shampoo,Pantene,1 Unit,205,243.39,180,48
+1604,SKU1604,Pantene Shampoo 4,Personal Care,Shampoo,Pantene,1 Unit,297,335.46,30,74
+1605,SKU1605,Pantene Shampoo 5,Personal Care,Shampoo,Pantene,1 Unit,323,392.08,30,62
+1606,SKU1606,Pantene Shampoo 6,Personal Care,Shampoo,Pantene,1 Unit,380,466.83,730,100
+1607,SKU1607,Pantene Shampoo 7,Personal Care,Shampoo,Pantene,1 Unit,68,75.19,365,61
+1608,SKU1608,Pantene Shampoo 8,Personal Care,Shampoo,Pantene,1 Unit,24,30.46,365,53
+1609,SKU1609,Pantene Shampoo 9,Personal Care,Shampoo,Pantene,1 Unit,206,234.07,30,94
+1610,SKU1610,Pantene Shampoo 10,Personal Care,Shampoo,Pantene,1 Unit,385,435.36,30,40
+1611,SKU1611,Pantene Shampoo 11,Personal Care,Shampoo,Pantene,1 Unit,393,502.4,180,91
+1612,SKU1612,Pantene Shampoo 12,Personal Care,Shampoo,Pantene,1 Unit,283,369.97,730,29
+1613,SKU1613,Pantene Shampoo 13,Personal Care,Shampoo,Pantene,1 Unit,375,434.03,365,74
+1614,SKU1614,Pantene Shampoo 14,Personal Care,Shampoo,Pantene,1 Unit,61,70.93,30,83
+1615,SKU1615,Pantene Shampoo 15,Personal Care,Shampoo,Pantene,1 Unit,36,41.7,180,92
+1616,SKU1616,Pantene Shampoo 16,Personal Care,Shampoo,Pantene,1 Unit,292,329.32,90,76
+1617,SKU1617,Pantene Shampoo 17,Personal Care,Shampoo,Pantene,1 Unit,498,624.6,30,51
+1618,SKU1618,Pantene Shampoo 18,Personal Care,Shampoo,Pantene,1 Unit,346,414.23,30,24
+1619,SKU1619,Pantene Shampoo 19,Personal Care,Shampoo,Pantene,1 Unit,63,77.56,730,32
+1620,SKU1620,Pantene Shampoo 20,Personal Care,Shampoo,Pantene,1 Unit,313,416.92,90,86
+1621,SKU1621,Head & Shoulders Shampoo 1,Personal Care,Shampoo,Head & Shoulders,1 Unit,457,611.05,180,32
+1622,SKU1622,Head & Shoulders Shampoo 2,Personal Care,Shampoo,Head & Shoulders,1 Unit,32,37.9,365,99
+1623,SKU1623,Head & Shoulders Shampoo 3,Personal Care,Shampoo,Head & Shoulders,1 Unit,392,516.24,365,60
+1624,SKU1624,Head & Shoulders Shampoo 4,Personal Care,Shampoo,Head & Shoulders,1 Unit,437,504.64,90,100
+1625,SKU1625,Head & Shoulders Shampoo 5,Personal Care,Shampoo,Head & Shoulders,1 Unit,47,57.27,90,77
+1626,SKU1626,Head & Shoulders Shampoo 6,Personal Care,Shampoo,Head & Shoulders,1 Unit,62,68.81,90,53
+1627,SKU1627,Head & Shoulders Shampoo 7,Personal Care,Shampoo,Head & Shoulders,1 Unit,327,409.91,90,72
+1628,SKU1628,Head & Shoulders Shampoo 8,Personal Care,Shampoo,Head & Shoulders,1 Unit,213,242.74,30,21
+1629,SKU1629,Head & Shoulders Shampoo 9,Personal Care,Shampoo,Head & Shoulders,1 Unit,139,172.15,30,61
+1630,SKU1630,Head & Shoulders Shampoo 10,Personal Care,Shampoo,Head & Shoulders,1 Unit,387,500.26,365,38
+1631,SKU1631,Head & Shoulders Shampoo 11,Personal Care,Shampoo,Head & Shoulders,1 Unit,102,121.47,180,64
+1632,SKU1632,Head & Shoulders Shampoo 12,Personal Care,Shampoo,Head & Shoulders,1 Unit,441,542.26,30,98
+1633,SKU1633,Head & Shoulders Shampoo 13,Personal Care,Shampoo,Head & Shoulders,1 Unit,128,143.65,180,69
+1634,SKU1634,Head & Shoulders Shampoo 14,Personal Care,Shampoo,Head & Shoulders,1 Unit,213,251.48,180,61
+1635,SKU1635,Head & Shoulders Shampoo 15,Personal Care,Shampoo,Head & Shoulders,1 Unit,324,380.09,180,20
+1636,SKU1636,Head & Shoulders Shampoo 16,Personal Care,Shampoo,Head & Shoulders,1 Unit,491,614.01,30,83
+1637,SKU1637,Head & Shoulders Shampoo 17,Personal Care,Shampoo,Head & Shoulders,1 Unit,182,244.54,90,94
+1638,SKU1638,Head & Shoulders Shampoo 18,Personal Care,Shampoo,Head & Shoulders,1 Unit,192,233.94,180,60
+1639,SKU1639,Head & Shoulders Shampoo 19,Personal Care,Shampoo,Head & Shoulders,1 Unit,243,271.98,90,75
+1640,SKU1640,Head & Shoulders Shampoo 20,Personal Care,Shampoo,Head & Shoulders,1 Unit,140,177.87,180,63
+1641,SKU1641,Colgate Toothpaste 1,Personal Care,Toothpaste,Colgate,1 Unit,490,557.64,365,53
+1642,SKU1642,Colgate Toothpaste 2,Personal Care,Toothpaste,Colgate,1 Unit,319,419.61,365,29
+1643,SKU1643,Colgate Toothpaste 3,Personal Care,Toothpaste,Colgate,1 Unit,418,509.09,30,39
+1644,SKU1644,Colgate Toothpaste 4,Personal Care,Toothpaste,Colgate,1 Unit,463,588.23,90,94
+1645,SKU1645,Colgate Toothpaste 5,Personal Care,Toothpaste,Colgate,1 Unit,394,476.16,90,87
+1646,SKU1646,Colgate Toothpaste 6,Personal Care,Toothpaste,Colgate,1 Unit,211,238.6,90,84
+1647,SKU1647,Colgate Toothpaste 7,Personal Care,Toothpaste,Colgate,1 Unit,302,350.18,730,22
+1648,SKU1648,Colgate Toothpaste 8,Personal Care,Toothpaste,Colgate,1 Unit,47,56.73,90,49
+1649,SKU1649,Colgate Toothpaste 9,Personal Care,Toothpaste,Colgate,1 Unit,49,54.55,365,25
+1650,SKU1650,Colgate Toothpaste 10,Personal Care,Toothpaste,Colgate,1 Unit,292,376.36,180,29
+1651,SKU1651,Colgate Toothpaste 11,Personal Care,Toothpaste,Colgate,1 Unit,69,76.72,30,27
+1652,SKU1652,Colgate Toothpaste 12,Personal Care,Toothpaste,Colgate,1 Unit,390,465.1,90,88
+1653,SKU1653,Colgate Toothpaste 13,Personal Care,Toothpaste,Colgate,1 Unit,275,349.97,90,68
+1654,SKU1654,Colgate Toothpaste 14,Personal Care,Toothpaste,Colgate,1 Unit,281,343.23,90,59
+1655,SKU1655,Colgate Toothpaste 15,Personal Care,Toothpaste,Colgate,1 Unit,130,168.89,90,42
+1656,SKU1656,Colgate Toothpaste 16,Personal Care,Toothpaste,Colgate,1 Unit,135,158.29,730,45
+1657,SKU1657,Colgate Toothpaste 17,Personal Care,Toothpaste,Colgate,1 Unit,363,442.7,730,43
+1658,SKU1658,Colgate Toothpaste 18,Personal Care,Toothpaste,Colgate,1 Unit,410,509.21,365,77
+1659,SKU1659,Colgate Toothpaste 19,Personal Care,Toothpaste,Colgate,1 Unit,447,576.84,90,27
+1660,SKU1660,Colgate Toothpaste 20,Personal Care,Toothpaste,Colgate,1 Unit,120,141.36,30,82
+1661,SKU1661,Pepsodent Toothpaste 1,Personal Care,Toothpaste,Pepsodent,1 Unit,225,251.03,30,61
+1662,SKU1662,Pepsodent Toothpaste 2,Personal Care,Toothpaste,Pepsodent,1 Unit,110,139.63,180,70
+1663,SKU1663,Pepsodent Toothpaste 3,Personal Care,Toothpaste,Pepsodent,1 Unit,281,353.59,30,20
+1664,SKU1664,Pepsodent Toothpaste 4,Personal Care,Toothpaste,Pepsodent,1 Unit,464,592.69,30,89
+1665,SKU1665,Pepsodent Toothpaste 5,Personal Care,Toothpaste,Pepsodent,1 Unit,432,504.97,365,75
+1666,SKU1666,Pepsodent Toothpaste 6,Personal Care,Toothpaste,Pepsodent,1 Unit,180,233.14,730,81
+1667,SKU1667,Pepsodent Toothpaste 7,Personal Care,Toothpaste,Pepsodent,1 Unit,379,430.26,730,20
+1668,SKU1668,Pepsodent Toothpaste 8,Personal Care,Toothpaste,Pepsodent,1 Unit,97,123.36,730,93
+1669,SKU1669,Pepsodent Toothpaste 9,Personal Care,Toothpaste,Pepsodent,1 Unit,86,102.43,180,38
+1670,SKU1670,Pepsodent Toothpaste 10,Personal Care,Toothpaste,Pepsodent,1 Unit,78,89.65,90,39
+1671,SKU1671,Pepsodent Toothpaste 11,Personal Care,Toothpaste,Pepsodent,1 Unit,268,355.91,365,74
+1672,SKU1672,Pepsodent Toothpaste 12,Personal Care,Toothpaste,Pepsodent,1 Unit,70,92.26,365,82
+1673,SKU1673,Pepsodent Toothpaste 13,Personal Care,Toothpaste,Pepsodent,1 Unit,484,581.62,365,39
+1674,SKU1674,Pepsodent Toothpaste 14,Personal Care,Toothpaste,Pepsodent,1 Unit,331,405.5,90,82
+1675,SKU1675,Pepsodent Toothpaste 15,Personal Care,Toothpaste,Pepsodent,1 Unit,242,284.61,730,72
+1676,SKU1676,Pepsodent Toothpaste 16,Personal Care,Toothpaste,Pepsodent,1 Unit,329,377.21,30,46
+1677,SKU1677,Pepsodent Toothpaste 17,Personal Care,Toothpaste,Pepsodent,1 Unit,205,250.95,30,81
+1678,SKU1678,Pepsodent Toothpaste 18,Personal Care,Toothpaste,Pepsodent,1 Unit,179,217.25,730,59
+1679,SKU1679,Pepsodent Toothpaste 19,Personal Care,Toothpaste,Pepsodent,1 Unit,186,206.62,30,76
+1680,SKU1680,Pepsodent Toothpaste 20,Personal Care,Toothpaste,Pepsodent,1 Unit,488,583.92,730,67
+1681,SKU1681,Surf Excel Detergent 1,Household,Detergent,Surf Excel,1 Unit,344,440.47,730,56
+1682,SKU1682,Surf Excel Detergent 2,Household,Detergent,Surf Excel,1 Unit,157,174.03,730,67
+1683,SKU1683,Surf Excel Detergent 3,Household,Detergent,Surf Excel,1 Unit,245,307.59,180,96
+1684,SKU1684,Surf Excel Detergent 4,Household,Detergent,Surf Excel,1 Unit,250,281.4,365,92
+1685,SKU1685,Surf Excel Detergent 5,Household,Detergent,Surf Excel,1 Unit,63,75.15,730,47
+1686,SKU1686,Surf Excel Detergent 6,Household,Detergent,Surf Excel,1 Unit,147,195.02,180,52
+1687,SKU1687,Surf Excel Detergent 7,Household,Detergent,Surf Excel,1 Unit,190,220.19,30,51
+1688,SKU1688,Surf Excel Detergent 8,Household,Detergent,Surf Excel,1 Unit,331,410.54,730,73
+1689,SKU1689,Surf Excel Detergent 9,Household,Detergent,Surf Excel,1 Unit,303,370.88,30,34
+1690,SKU1690,Surf Excel Detergent 10,Household,Detergent,Surf Excel,1 Unit,208,278.85,730,43
+1691,SKU1691,Surf Excel Detergent 11,Household,Detergent,Surf Excel,1 Unit,186,241.97,730,39
+1692,SKU1692,Surf Excel Detergent 12,Household,Detergent,Surf Excel,1 Unit,404,481.39,730,52
+1693,SKU1693,Surf Excel Detergent 13,Household,Detergent,Surf Excel,1 Unit,460,608.01,730,75
+1694,SKU1694,Surf Excel Detergent 14,Household,Detergent,Surf Excel,1 Unit,409,525.83,30,77
+1695,SKU1695,Surf Excel Detergent 15,Household,Detergent,Surf Excel,1 Unit,274,350.75,180,50
+1696,SKU1696,Surf Excel Detergent 16,Household,Detergent,Surf Excel,1 Unit,375,486.17,180,75
+1697,SKU1697,Surf Excel Detergent 17,Household,Detergent,Surf Excel,1 Unit,294,328.36,30,53
+1698,SKU1698,Surf Excel Detergent 18,Household,Detergent,Surf Excel,1 Unit,70,94.26,30,21
+1699,SKU1699,Surf Excel Detergent 19,Household,Detergent,Surf Excel,1 Unit,101,112.84,365,59
+1700,SKU1700,Surf Excel Detergent 20,Household,Detergent,Surf Excel,1 Unit,200,235.66,180,79
+1701,SKU1701,Ariel Detergent 1,Household,Detergent,Ariel,1 Unit,291,322.66,90,85
+1702,SKU1702,Ariel Detergent 2,Household,Detergent,Ariel,1 Unit,350,419.37,30,49
+1703,SKU1703,Ariel Detergent 3,Household,Detergent,Ariel,1 Unit,44,59.01,30,44
+1704,SKU1704,Ariel Detergent 4,Household,Detergent,Ariel,1 Unit,216,262.5,30,92
+1705,SKU1705,Ariel Detergent 5,Household,Detergent,Ariel,1 Unit,62,83.47,90,80
+1706,SKU1706,Ariel Detergent 6,Household,Detergent,Ariel,1 Unit,271,341.26,30,65
+1707,SKU1707,Ariel Detergent 7,Household,Detergent,Ariel,1 Unit,126,164.75,365,42
+1708,SKU1708,Ariel Detergent 8,Household,Detergent,Ariel,1 Unit,179,220.3,30,86
+1709,SKU1709,Ariel Detergent 9,Household,Detergent,Ariel,1 Unit,228,291.92,365,66
+1710,SKU1710,Ariel Detergent 10,Household,Detergent,Ariel,1 Unit,81,95.0,90,89
+1711,SKU1711,Ariel Detergent 11,Household,Detergent,Ariel,1 Unit,105,124.26,365,97
+1712,SKU1712,Ariel Detergent 12,Household,Detergent,Ariel,1 Unit,99,111.14,180,74
+1713,SKU1713,Ariel Detergent 13,Household,Detergent,Ariel,1 Unit,222,294.12,90,52
+1714,SKU1714,Ariel Detergent 14,Household,Detergent,Ariel,1 Unit,428,522.71,365,21
+1715,SKU1715,Ariel Detergent 15,Household,Detergent,Ariel,1 Unit,180,221.53,30,70
+1716,SKU1716,Ariel Detergent 16,Household,Detergent,Ariel,1 Unit,28,36.29,90,52
+1717,SKU1717,Ariel Detergent 17,Household,Detergent,Ariel,1 Unit,246,300.66,90,52
+1718,SKU1718,Ariel Detergent 18,Household,Detergent,Ariel,1 Unit,371,435.63,180,99
+1719,SKU1719,Ariel Detergent 19,Household,Detergent,Ariel,1 Unit,100,124.74,730,92
+1720,SKU1720,Ariel Detergent 20,Household,Detergent,Ariel,1 Unit,482,566.83,730,79
+1721,SKU1721,Wheel Detergent 1,Household,Detergent,Wheel,1 Unit,305,352.93,90,26
+1722,SKU1722,Wheel Detergent 2,Household,Detergent,Wheel,1 Unit,259,292.1,30,87
+1723,SKU1723,Wheel Detergent 3,Household,Detergent,Wheel,1 Unit,283,343.35,30,48
+1724,SKU1724,Wheel Detergent 4,Household,Detergent,Wheel,1 Unit,20,26.37,730,32
+1725,SKU1725,Wheel Detergent 5,Household,Detergent,Wheel,1 Unit,440,568.66,90,47
+1726,SKU1726,Wheel Detergent 6,Household,Detergent,Wheel,1 Unit,76,83.67,30,42
+1727,SKU1727,Wheel Detergent 7,Household,Detergent,Wheel,1 Unit,336,400.89,30,26
+1728,SKU1728,Wheel Detergent 8,Household,Detergent,Wheel,1 Unit,337,412.27,365,96
+1729,SKU1729,Wheel Detergent 9,Household,Detergent,Wheel,1 Unit,360,429.47,730,61
+1730,SKU1730,Wheel Detergent 10,Household,Detergent,Wheel,1 Unit,471,610.46,90,21
+1731,SKU1731,Wheel Detergent 11,Household,Detergent,Wheel,1 Unit,303,380.2,365,54
+1732,SKU1732,Wheel Detergent 12,Household,Detergent,Wheel,1 Unit,107,119.64,730,48
+1733,SKU1733,Wheel Detergent 13,Household,Detergent,Wheel,1 Unit,301,333.08,90,58
+1734,SKU1734,Wheel Detergent 14,Household,Detergent,Wheel,1 Unit,89,114.07,30,48
+1735,SKU1735,Wheel Detergent 15,Household,Detergent,Wheel,1 Unit,368,409.1,730,79
+1736,SKU1736,Wheel Detergent 16,Household,Detergent,Wheel,1 Unit,191,254.35,180,86
+1737,SKU1737,Wheel Detergent 17,Household,Detergent,Wheel,1 Unit,146,186.66,730,46
+1738,SKU1738,Wheel Detergent 18,Household,Detergent,Wheel,1 Unit,447,508.6,365,76
+1739,SKU1739,Wheel Detergent 19,Household,Detergent,Wheel,1 Unit,427,470.13,365,59
+1740,SKU1740,Wheel Detergent 20,Household,Detergent,Wheel,1 Unit,295,379.71,365,93
+1741,SKU1741,Vim Dishwash 1,Household,Dishwash,Vim,1 Unit,372,497.6,30,31
+1742,SKU1742,Vim Dishwash 2,Household,Dishwash,Vim,1 Unit,241,309.58,365,56
+1743,SKU1743,Vim Dishwash 3,Household,Dishwash,Vim,1 Unit,322,370.12,180,73
+1744,SKU1744,Vim Dishwash 4,Household,Dishwash,Vim,1 Unit,61,74.18,30,61
+1745,SKU1745,Vim Dishwash 5,Household,Dishwash,Vim,1 Unit,375,434.35,90,44
+1746,SKU1746,Vim Dishwash 6,Household,Dishwash,Vim,1 Unit,428,531.44,365,86
+1747,SKU1747,Vim Dishwash 7,Household,Dishwash,Vim,1 Unit,343,455.68,730,20
+1748,SKU1748,Vim Dishwash 8,Household,Dishwash,Vim,1 Unit,119,144.73,365,30
+1749,SKU1749,Vim Dishwash 9,Household,Dishwash,Vim,1 Unit,408,491.73,730,50
+1750,SKU1750,Vim Dishwash 10,Household,Dishwash,Vim,1 Unit,128,148.42,90,43
+1751,SKU1751,Vim Dishwash 11,Household,Dishwash,Vim,1 Unit,311,387.68,30,26
+1752,SKU1752,Vim Dishwash 12,Household,Dishwash,Vim,1 Unit,489,575.79,90,35
+1753,SKU1753,Vim Dishwash 13,Household,Dishwash,Vim,1 Unit,147,191.03,180,83
+1754,SKU1754,Vim Dishwash 14,Household,Dishwash,Vim,1 Unit,437,585.27,90,51
+1755,SKU1755,Vim Dishwash 15,Household,Dishwash,Vim,1 Unit,347,400.46,90,63
+1756,SKU1756,Vim Dishwash 16,Household,Dishwash,Vim,1 Unit,159,177.29,180,66
+1757,SKU1757,Vim Dishwash 17,Household,Dishwash,Vim,1 Unit,261,349.69,90,56
+1758,SKU1758,Vim Dishwash 18,Household,Dishwash,Vim,1 Unit,407,526.73,365,29
+1759,SKU1759,Vim Dishwash 19,Household,Dishwash,Vim,1 Unit,368,422.91,180,72
+1760,SKU1760,Vim Dishwash 20,Household,Dishwash,Vim,1 Unit,260,325.41,730,42
+1761,SKU1761,Pril Dishwash 1,Household,Dishwash,Pril,1 Unit,290,390.62,30,31
+1762,SKU1762,Pril Dishwash 2,Household,Dishwash,Pril,1 Unit,92,104.91,730,92
+1763,SKU1763,Pril Dishwash 3,Household,Dishwash,Pril,1 Unit,451,573.53,90,93
+1764,SKU1764,Pril Dishwash 4,Household,Dishwash,Pril,1 Unit,262,314.98,90,89
+1765,SKU1765,Pril Dishwash 5,Household,Dishwash,Pril,1 Unit,223,257.12,90,54
+1766,SKU1766,Pril Dishwash 6,Household,Dishwash,Pril,1 Unit,118,157.54,30,63
+1767,SKU1767,Pril Dishwash 7,Household,Dishwash,Pril,1 Unit,97,129.22,365,53
+1768,SKU1768,Pril Dishwash 8,Household,Dishwash,Pril,1 Unit,196,228.49,90,90
+1769,SKU1769,Pril Dishwash 9,Household,Dishwash,Pril,1 Unit,329,391.26,90,50
+1770,SKU1770,Pril Dishwash 10,Household,Dishwash,Pril,1 Unit,272,313.15,730,82
+1771,SKU1771,Pril Dishwash 11,Household,Dishwash,Pril,1 Unit,370,411.2,180,44
+1772,SKU1772,Pril Dishwash 12,Household,Dishwash,Pril,1 Unit,84,103.26,90,79
+1773,SKU1773,Pril Dishwash 13,Household,Dishwash,Pril,1 Unit,427,552.43,730,42
+1774,SKU1774,Pril Dishwash 14,Household,Dishwash,Pril,1 Unit,408,507.96,180,47
+1775,SKU1775,Pril Dishwash 15,Household,Dishwash,Pril,1 Unit,397,533.88,90,44
+1776,SKU1776,Pril Dishwash 16,Household,Dishwash,Pril,1 Unit,187,210.1,180,25
+1777,SKU1777,Pril Dishwash 17,Household,Dishwash,Pril,1 Unit,441,571.08,365,64
+1778,SKU1778,Pril Dishwash 18,Household,Dishwash,Pril,1 Unit,224,272.9,180,76
+1779,SKU1779,Pril Dishwash 19,Household,Dishwash,Pril,1 Unit,67,82.23,730,37
+1780,SKU1780,Pril Dishwash 20,Household,Dishwash,Pril,1 Unit,469,578.43,30,46
