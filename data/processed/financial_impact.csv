@@ -1,0 +1,13 @@
+Metric,Value
+Overstock Cases,1721.0
+Understock Cases,379.0
+Transfer Recommendations,406.0
+Markdown Recommendations,700.0
+Reorder Recommendations,383.0
+Total Transfer Quantity,6600.0
+Total Reorder Quantity,45631.0
+Inventory Carrying Cost Saved (₹),79200.0
+Markdown Revenue Recovery (₹),245000.0
+Stockout Loss Prevented (₹),2053395.0
+Total Estimated Business Impact (₹),2377595.0
+Inventory Health Score,81.95

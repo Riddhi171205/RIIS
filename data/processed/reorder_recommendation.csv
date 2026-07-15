@@ -1,0 +1,384 @@
+date,store_id,product_id,product_name,supplier_name,current_stock,reorder_level,recommended_order_qty,lead_time_days,priority,reason
+2025-03-31,1,1026,Daawat Rice 6,Tata Consumer Supply,60,91,131,4,Medium,Current stock below reorder level
+2025-03-31,1,1032,Daawat Rice 12,Fortune Foods Supply,57,65,108,3,Medium,Current stock below reorder level
+2025-03-31,1,1055,Fortune Rice 15,Patanjali Supply Chain,85,91,106,4,Medium,Current stock below reorder level
+2025-03-31,1,1097,Fortune Atta 17,Nestle India Supply,57,96,139,3,Medium,Current stock below reorder level
+2025-03-31,1,1102,Pillsbury Atta 2,Dabur Wholesale,53,64,111,5,Medium,Current stock below reorder level
+2025-03-31,1,1126,Fortune Oil 6,ITC Foods Distributor,39,86,147,3,Medium,Current stock below reorder level
+2025-03-31,1,1141,Saffola Oil 1,Parle Products Supply,55,93,138,2,Medium,Current stock below reorder level
+2025-03-31,1,1161,Dhara Oil 1,HUL Distribution,57,90,133,2,Medium,Current stock below reorder level
+2025-03-31,1,1185,Madhur Sugar 5,HUL Distribution,64,90,126,2,Medium,Current stock below reorder level
+2025-03-31,1,1216,Trust Sugar 16,Fortune Foods Supply,60,98,138,3,Medium,Current stock below reorder level
+2025-03-31,1,1228,Organic India Sugar 8,HUL Distribution,38,66,128,2,Medium,Current stock below reorder level
+2025-03-31,1,1245,Amul Milk 5,Tata Consumer Supply,89,93,104,4,Medium,Current stock below reorder level
+2025-03-31,1,1249,Amul Milk 9,Patanjali Supply Chain,53,87,134,4,Medium,Current stock below reorder level
+2025-03-31,1,1261,Mother Dairy Milk 1,Parle Products Supply,85,98,113,2,Medium,Current stock below reorder level
+2025-03-31,1,1304,Britannia Butter 4,Nestle India Supply,78,88,110,3,Medium,Current stock below reorder level
+2025-03-31,1,1310,Britannia Butter 10,Amul Distribution Pvt Ltd,35,69,134,2,Medium,Current stock below reorder level
+2025-03-31,1,1316,Britannia Butter 16,Patanjali Supply Chain,45,79,134,4,Medium,Current stock below reorder level
+2025-03-31,1,1383,Kurkure Chips 3,HUL Distribution,49,66,117,2,Medium,Current stock below reorder level
+2025-03-31,1,1446,Tata Tea Tea 6,Patanjali Supply Chain,79,86,107,4,Medium,Current stock below reorder level
+2025-03-31,1,1466,Red Label Tea 6,ITC Foods Distributor,80,87,107,3,Medium,Current stock below reorder level
+2025-03-31,1,1475,Red Label Tea 15,ITC Foods Distributor,86,87,101,3,Medium,Current stock below reorder level
+2025-03-31,1,1500,Nescafe Coffee 20,Fortune Foods Supply,82,89,107,3,Medium,Current stock below reorder level
+2025-03-31,1,1516,Bru Coffee 16,Dabur Wholesale,36,74,138,5,Medium,Current stock below reorder level
+2025-03-31,1,1522,Dove Soap 2,Parle Products Supply,82,88,106,2,Medium,Current stock below reorder level
+2025-03-31,1,1530,Dove Soap 10,Patanjali Supply Chain,80,99,119,4,Medium,Current stock below reorder level
+2025-03-31,1,1551,Lux Soap 11,Parle Products Supply,53,59,106,2,Medium,Current stock below reorder level
+2025-03-31,1,1554,Lux Soap 14,Tata Consumer Supply,40,82,142,4,Medium,Current stock below reorder level
+2025-03-31,1,1585,Clinic Plus Shampoo 5,Tata Consumer Supply,49,96,147,4,Medium,Current stock below reorder level
+2025-03-31,1,1590,Clinic Plus Shampoo 10,Patanjali Supply Chain,79,86,107,4,Medium,Current stock below reorder level
+2025-03-31,1,1605,Pantene Shampoo 5,HUL Distribution,82,85,103,2,Medium,Current stock below reorder level
+2025-03-31,1,1610,Pantene Shampoo 10,Dabur Wholesale,52,78,126,5,Medium,Current stock below reorder level
+2025-03-31,1,1614,Pantene Shampoo 14,ITC Foods Distributor,66,81,115,3,Medium,Current stock below reorder level
+2025-03-31,1,1631,Head & Shoulders Shampoo 11,ITC Foods Distributor,52,80,128,3,Medium,Current stock below reorder level
+2025-03-31,1,1637,Head & Shoulders Shampoo 17,Fortune Foods Supply,45,78,133,3,Medium,Current stock below reorder level
+2025-03-31,1,1645,Colgate Toothpaste 5,Fortune Foods Supply,93,97,104,3,Medium,Current stock below reorder level
+2025-03-31,1,1653,Colgate Toothpaste 13,HUL Distribution,41,94,153,2,High,Current stock below reorder level
+2025-03-31,1,1670,Pepsodent Toothpaste 10,Parle Products Supply,74,82,108,2,Medium,Current stock below reorder level
+2025-03-31,1,1691,Surf Excel Detergent 11,Britannia Distributor,74,91,117,2,Medium,Current stock below reorder level
+2025-03-31,1,1720,Ariel Detergent 20,Nestle India Supply,70,94,124,3,Medium,Current stock below reorder level
+2025-03-31,1,1724,Wheel Detergent 4,Parle Products Supply,62,88,126,2,Medium,Current stock below reorder level
+2025-03-31,1,1741,Vim Dishwash 1,Patanjali Supply Chain,91,96,105,4,Medium,Current stock below reorder level
+2025-03-31,1,1744,Vim Dishwash 4,HUL Distribution,59,91,132,2,Medium,Current stock below reorder level
+2025-03-31,1,1772,Pril Dishwash 12,Tata Consumer Supply,84,95,111,4,Medium,Current stock below reorder level
+2025-03-31,1,1774,Pril Dishwash 14,HUL Distribution,38,96,158,2,High,Current stock below reorder level
+2025-03-31,1,1779,Pril Dishwash 19,Patanjali Supply Chain,80,81,101,4,Medium,Current stock below reorder level
+2025-03-31,2,1006,India Gate Rice 6,Patanjali Supply Chain,58,63,105,4,Medium,Current stock below reorder level
+2025-03-31,2,1007,India Gate Rice 7,Amul Distribution Pvt Ltd,77,85,108,2,Medium,Current stock below reorder level
+2025-03-31,2,1017,India Gate Rice 17,Patanjali Supply Chain,92,94,102,4,Medium,Current stock below reorder level
+2025-03-31,2,1033,Daawat Rice 13,ITC Foods Distributor,42,54,112,3,Medium,Current stock below reorder level
+2025-03-31,2,1052,Fortune Rice 12,Amul Distribution Pvt Ltd,75,82,107,2,Medium,Current stock below reorder level
+2025-03-31,2,1079,Aashirvaad Atta 19,Amul Distribution Pvt Ltd,69,71,102,2,Medium,Current stock below reorder level
+2025-03-31,2,1119,Pillsbury Atta 19,ITC Foods Distributor,87,97,110,3,Medium,Current stock below reorder level
+2025-03-31,2,1153,Saffola Oil 13,Britannia Distributor,87,97,110,2,Medium,Current stock below reorder level
+2025-03-31,2,1154,Saffola Oil 14,Patanjali Supply Chain,69,75,106,4,Medium,Current stock below reorder level
+2025-03-31,2,1155,Saffola Oil 15,ITC Foods Distributor,87,93,106,3,Medium,Current stock below reorder level
+2025-03-31,2,1163,Dhara Oil 3,Tata Consumer Supply,55,100,145,4,Medium,Current stock below reorder level
+2025-03-31,2,1185,Madhur Sugar 5,HUL Distribution,82,90,108,2,Medium,Current stock below reorder level
+2025-03-31,2,1216,Trust Sugar 16,Fortune Foods Supply,55,98,143,3,Medium,Current stock below reorder level
+2025-03-31,2,1226,Organic India Sugar 6,Tata Consumer Supply,55,97,142,4,Medium,Current stock below reorder level
+2025-03-31,2,1233,Organic India Sugar 13,Parle Products Supply,63,84,121,2,Medium,Current stock below reorder level
+2025-03-31,2,1334,Amul Cheese 14,Parle Products Supply,80,91,111,2,Medium,Current stock below reorder level
+2025-03-31,2,1398,Kurkure Chips 18,Britannia Distributor,39,95,156,2,High,Current stock below reorder level
+2025-03-31,2,1424,Parle Biscuits 4,Fortune Foods Supply,67,97,130,3,Medium,Current stock below reorder level
+2025-03-31,2,1447,Tata Tea Tea 7,Parle Products Supply,72,76,104,2,Medium,Current stock below reorder level
+2025-03-31,2,1463,Red Label Tea 3,Britannia Distributor,62,89,127,2,Medium,Current stock below reorder level
+2025-03-31,2,1475,Red Label Tea 15,ITC Foods Distributor,81,87,106,3,Medium,Current stock below reorder level
+2025-03-31,2,1477,Red Label Tea 17,Amul Distribution Pvt Ltd,90,93,103,2,Medium,Current stock below reorder level
+2025-03-31,2,1494,Nescafe Coffee 14,HUL Distribution,64,88,124,2,Medium,Current stock below reorder level
+2025-03-31,2,1500,Nescafe Coffee 20,Fortune Foods Supply,58,89,131,3,Medium,Current stock below reorder level
+2025-03-31,2,1503,Bru Coffee 3,HUL Distribution,39,95,156,2,High,Current stock below reorder level
+2025-03-31,2,1523,Dove Soap 3,Nestle India Supply,60,63,103,3,Medium,Current stock below reorder level
+2025-03-31,2,1525,Dove Soap 5,ITC Foods Distributor,54,80,126,3,Medium,Current stock below reorder level
+2025-03-31,2,1539,Dove Soap 19,Fortune Foods Supply,81,86,105,3,Medium,Current stock below reorder level
+2025-03-31,2,1568,Lifebuoy Soap 8,Patanjali Supply Chain,64,99,135,4,Medium,Current stock below reorder level
+2025-03-31,2,1572,Lifebuoy Soap 12,Nestle India Supply,61,90,129,3,Medium,Current stock below reorder level
+2025-03-31,2,1574,Lifebuoy Soap 14,Britannia Distributor,66,96,130,2,Medium,Current stock below reorder level
+2025-03-31,2,1577,Lifebuoy Soap 17,Parle Products Supply,70,88,118,2,Medium,Current stock below reorder level
+2025-03-31,2,1625,Head & Shoulders Shampoo 5,Fortune Foods Supply,54,65,111,3,Medium,Current stock below reorder level
+2025-03-31,2,1655,Colgate Toothpaste 15,Tata Consumer Supply,91,95,104,4,Medium,Current stock below reorder level
+2025-03-31,2,1717,Ariel Detergent 17,Dabur Wholesale,80,98,118,5,Medium,Current stock below reorder level
+2025-03-31,2,1735,Wheel Detergent 15,Tata Consumer Supply,45,79,134,4,Medium,Current stock below reorder level
+2025-03-31,2,1768,Pril Dishwash 8,Britannia Distributor,66,79,113,2,Medium,Current stock below reorder level
+2025-03-31,2,1770,Pril Dishwash 10,Fortune Foods Supply,49,53,104,3,Medium,Current stock below reorder level
+2025-03-31,2,1779,Pril Dishwash 19,Patanjali Supply Chain,51,81,130,4,Medium,Current stock below reorder level
+2025-03-31,3,1044,Fortune Rice 4,HUL Distribution,69,89,120,2,Medium,Current stock below reorder level
+2025-03-31,3,1090,Fortune Atta 10,Tata Consumer Supply,79,85,106,4,Medium,Current stock below reorder level
+2025-03-31,3,1111,Pillsbury Atta 11,Tata Consumer Supply,44,93,149,4,Medium,Current stock below reorder level
+2025-03-31,3,1166,Dhara Oil 6,Britannia Distributor,65,94,129,2,Medium,Current stock below reorder level
+2025-03-31,3,1184,Madhur Sugar 4,Parle Products Supply,94,95,101,2,Medium,Current stock below reorder level
+2025-03-31,3,1202,Trust Sugar 2,Amul Distribution Pvt Ltd,78,92,114,2,Medium,Current stock below reorder level
+2025-03-31,3,1218,Trust Sugar 18,Patanjali Supply Chain,55,70,115,4,Medium,Current stock below reorder level
+2025-03-31,3,1248,Amul Milk 8,Dabur Wholesale,53,77,124,5,Medium,Current stock below reorder level
+2025-03-31,3,1369,Lay's Chips 9,Britannia Distributor,62,91,129,2,Medium,Current stock below reorder level
+2025-03-31,3,1374,Lay's Chips 14,Britannia Distributor,44,79,135,2,Medium,Current stock below reorder level
+2025-03-31,3,1403,Britannia Biscuits 3,Tata Consumer Supply,61,74,113,4,Medium,Current stock below reorder level
+2025-03-31,3,1446,Tata Tea Tea 6,Patanjali Supply Chain,33,86,153,4,High,Current stock below reorder level
+2025-03-31,3,1450,Tata Tea Tea 10,Amul Distribution Pvt Ltd,62,74,112,2,Medium,Current stock below reorder level
+2025-03-31,3,1456,Tata Tea Tea 16,Dabur Wholesale,77,96,119,5,Medium,Current stock below reorder level
+2025-03-31,3,1465,Red Label Tea 5,ITC Foods Distributor,50,57,107,3,Medium,Current stock below reorder level
+2025-03-31,3,1472,Red Label Tea 12,Parle Products Supply,43,47,104,2,Medium,Current stock below reorder level
+2025-03-31,3,1508,Bru Coffee 8,Tata Consumer Supply,72,93,121,4,Medium,Current stock below reorder level
+2025-03-31,3,1522,Dove Soap 2,Parle Products Supply,51,88,137,2,Medium,Current stock below reorder level
+2025-03-31,3,1525,Dove Soap 5,ITC Foods Distributor,75,80,105,3,Medium,Current stock below reorder level
+2025-03-31,3,1526,Dove Soap 6,ITC Foods Distributor,80,90,110,3,Medium,Current stock below reorder level
+2025-03-31,3,1584,Clinic Plus Shampoo 4,Tata Consumer Supply,40,44,104,4,Medium,Current stock below reorder level
+2025-03-31,3,1590,Clinic Plus Shampoo 10,Patanjali Supply Chain,58,86,128,4,Medium,Current stock below reorder level
+2025-03-31,3,1594,Clinic Plus Shampoo 14,Britannia Distributor,48,63,115,2,Medium,Current stock below reorder level
+2025-03-31,3,1597,Clinic Plus Shampoo 17,Dabur Wholesale,51,54,103,5,Medium,Current stock below reorder level
+2025-03-31,3,1658,Colgate Toothpaste 18,Fortune Foods Supply,59,79,120,3,Medium,Current stock below reorder level
+2025-03-31,3,1706,Ariel Detergent 6,Patanjali Supply Chain,57,62,105,4,Medium,Current stock below reorder level
+2025-03-31,3,1717,Ariel Detergent 17,Dabur Wholesale,52,98,146,5,Medium,Current stock below reorder level
+2025-03-31,3,1743,Vim Dishwash 3,HUL Distribution,46,89,143,2,Medium,Current stock below reorder level
+2025-03-31,3,1758,Vim Dishwash 18,HUL Distribution,72,84,112,2,Medium,Current stock below reorder level
+2025-03-31,3,1768,Pril Dishwash 8,Britannia Distributor,76,79,103,2,Medium,Current stock below reorder level
+2025-03-31,3,1771,Pril Dishwash 11,HUL Distribution,57,80,123,2,Medium,Current stock below reorder level
+2025-03-31,3,1775,Pril Dishwash 15,Amul Distribution Pvt Ltd,44,67,123,2,Medium,Current stock below reorder level
+2025-03-31,4,1012,India Gate Rice 12,Patanjali Supply Chain,70,71,101,4,Medium,Current stock below reorder level
+2025-03-31,4,1037,Daawat Rice 17,ITC Foods Distributor,58,86,128,3,Medium,Current stock below reorder level
+2025-03-31,4,1062,Aashirvaad Atta 2,Amul Distribution Pvt Ltd,45,81,136,2,Medium,Current stock below reorder level
+2025-03-31,4,1120,Pillsbury Atta 20,Parle Products Supply,81,93,112,2,Medium,Current stock below reorder level
+2025-03-31,4,1122,Fortune Oil 2,Britannia Distributor,79,100,121,2,Medium,Current stock below reorder level
+2025-03-31,4,1158,Saffola Oil 18,Britannia Distributor,56,99,143,2,Medium,Current stock below reorder level
+2025-03-31,4,1160,Saffola Oil 20,HUL Distribution,43,46,103,2,Medium,Current stock below reorder level
+2025-03-31,4,1163,Dhara Oil 3,Tata Consumer Supply,83,100,117,4,Medium,Current stock below reorder level
+2025-03-31,4,1169,Dhara Oil 9,ITC Foods Distributor,66,84,118,3,Medium,Current stock below reorder level
+2025-03-31,4,1184,Madhur Sugar 4,Parle Products Supply,85,95,110,2,Medium,Current stock below reorder level
+2025-03-31,4,1254,Amul Milk 14,Parle Products Supply,89,90,101,2,Medium,Current stock below reorder level
+2025-03-31,4,1277,Mother Dairy Milk 17,Dabur Wholesale,48,55,107,5,Medium,Current stock below reorder level
+2025-03-31,4,1325,Amul Cheese 5,Amul Distribution Pvt Ltd,60,91,131,2,Medium,Current stock below reorder level
+2025-03-31,4,1421,Parle Biscuits 1,ITC Foods Distributor,37,86,149,3,Medium,Current stock below reorder level
+2025-03-31,4,1450,Tata Tea Tea 10,Amul Distribution Pvt Ltd,40,74,134,2,Medium,Current stock below reorder level
+2025-03-31,4,1491,Nescafe Coffee 11,Amul Distribution Pvt Ltd,66,99,133,2,Medium,Current stock below reorder level
+2025-03-31,4,1499,Nescafe Coffee 19,Nestle India Supply,48,91,143,3,Medium,Current stock below reorder level
+2025-03-31,4,1531,Dove Soap 11,Fortune Foods Supply,77,83,106,3,Medium,Current stock below reorder level
+2025-03-31,4,1541,Lux Soap 1,Britannia Distributor,47,61,114,2,Medium,Current stock below reorder level
+2025-03-31,4,1544,Lux Soap 4,Nestle India Supply,83,85,102,3,Medium,Current stock below reorder level
+2025-03-31,4,1568,Lifebuoy Soap 8,Patanjali Supply Chain,54,99,145,4,Medium,Current stock below reorder level
+2025-03-31,4,1574,Lifebuoy Soap 14,Britannia Distributor,61,96,135,2,Medium,Current stock below reorder level
+2025-03-31,4,1580,Lifebuoy Soap 20,Patanjali Supply Chain,61,88,127,4,Medium,Current stock below reorder level
+2025-03-31,4,1585,Clinic Plus Shampoo 5,Tata Consumer Supply,58,96,138,4,Medium,Current stock below reorder level
+2025-03-31,4,1611,Pantene Shampoo 11,Nestle India Supply,71,73,102,3,Medium,Current stock below reorder level
+2025-03-31,4,1622,Head & Shoulders Shampoo 2,Patanjali Supply Chain,48,59,111,4,Medium,Current stock below reorder level
+2025-03-31,4,1631,Head & Shoulders Shampoo 11,ITC Foods Distributor,75,80,105,3,Medium,Current stock below reorder level
+2025-03-31,4,1644,Colgate Toothpaste 4,Tata Consumer Supply,80,91,111,4,Medium,Current stock below reorder level
+2025-03-31,4,1739,Wheel Detergent 19,HUL Distribution,52,54,102,2,Medium,Current stock below reorder level
+2025-03-31,4,1741,Vim Dishwash 1,Patanjali Supply Chain,59,96,137,4,Medium,Current stock below reorder level
+2025-03-31,4,1764,Pril Dishwash 4,Amul Distribution Pvt Ltd,78,79,101,2,Medium,Current stock below reorder level
+2025-03-31,4,1772,Pril Dishwash 12,Tata Consumer Supply,54,95,141,4,Medium,Current stock below reorder level
+2025-03-31,5,1017,India Gate Rice 17,Patanjali Supply Chain,72,94,122,4,Medium,Current stock below reorder level
+2025-03-31,5,1039,Daawat Rice 19,Amul Distribution Pvt Ltd,48,73,125,2,Medium,Current stock below reorder level
+2025-03-31,5,1062,Aashirvaad Atta 2,Amul Distribution Pvt Ltd,59,81,122,2,Medium,Current stock below reorder level
+2025-03-31,5,1119,Pillsbury Atta 19,ITC Foods Distributor,87,97,110,3,Medium,Current stock below reorder level
+2025-03-31,5,1122,Fortune Oil 2,Britannia Distributor,33,100,167,2,High,Current stock below reorder level
+2025-03-31,5,1133,Fortune Oil 13,Nestle India Supply,51,68,117,3,Medium,Current stock below reorder level
+2025-03-31,5,1153,Saffola Oil 13,Britannia Distributor,92,97,105,2,Medium,Current stock below reorder level
+2025-03-31,5,1163,Dhara Oil 3,Tata Consumer Supply,78,100,122,4,Medium,Current stock below reorder level
+2025-03-31,5,1181,Madhur Sugar 1,Amul Distribution Pvt Ltd,36,52,116,2,Medium,Current stock below reorder level
+2025-03-31,5,1185,Madhur Sugar 5,HUL Distribution,67,90,123,2,Medium,Current stock below reorder level
+2025-03-31,5,1242,Amul Milk 2,Tata Consumer Supply,44,59,115,4,Medium,Current stock below reorder level
+2025-03-31,5,1254,Amul Milk 14,Parle Products Supply,81,90,109,2,Medium,Current stock below reorder level
+2025-03-31,5,1270,Mother Dairy Milk 10,HUL Distribution,44,89,145,2,Medium,Current stock below reorder level
+2025-03-31,5,1281,Amul Butter 1,Britannia Distributor,55,65,110,2,Medium,Current stock below reorder level
+2025-03-31,5,1292,Amul Butter 12,Amul Distribution Pvt Ltd,76,81,105,2,Medium,Current stock below reorder level
+2025-03-31,5,1300,Amul Butter 20,Amul Distribution Pvt Ltd,76,84,108,2,Medium,Current stock below reorder level
+2025-03-31,5,1304,Britannia Butter 4,Nestle India Supply,85,88,103,3,Medium,Current stock below reorder level
+2025-03-31,5,1310,Britannia Butter 10,Amul Distribution Pvt Ltd,66,69,103,2,Medium,Current stock below reorder level
+2025-03-31,5,1389,Kurkure Chips 9,Dabur Wholesale,65,73,108,5,Medium,Current stock below reorder level
+2025-03-31,5,1421,Parle Biscuits 1,ITC Foods Distributor,72,86,114,3,Medium,Current stock below reorder level
+2025-03-31,5,1453,Tata Tea Tea 13,Patanjali Supply Chain,47,50,103,4,Medium,Current stock below reorder level
+2025-03-31,5,1504,Bru Coffee 4,Patanjali Supply Chain,48,51,103,4,Medium,Current stock below reorder level
+2025-03-31,5,1517,Bru Coffee 17,Fortune Foods Supply,57,87,130,3,Medium,Current stock below reorder level
+2025-03-31,5,1525,Dove Soap 5,ITC Foods Distributor,63,80,117,3,Medium,Current stock below reorder level
+2025-03-31,5,1526,Dove Soap 6,ITC Foods Distributor,51,90,139,3,Medium,Current stock below reorder level
+2025-03-31,5,1545,Lux Soap 5,Amul Distribution Pvt Ltd,60,97,137,2,Medium,Current stock below reorder level
+2025-03-31,5,1568,Lifebuoy Soap 8,Patanjali Supply Chain,62,99,137,4,Medium,Current stock below reorder level
+2025-03-31,5,1570,Lifebuoy Soap 10,Parle Products Supply,37,59,122,2,Medium,Current stock below reorder level
+2025-03-31,5,1590,Clinic Plus Shampoo 10,Patanjali Supply Chain,76,86,110,4,Medium,Current stock below reorder level
+2025-03-31,5,1644,Colgate Toothpaste 4,Tata Consumer Supply,72,91,119,4,Medium,Current stock below reorder level
+2025-03-31,5,1687,Surf Excel Detergent 7,Nestle India Supply,64,96,132,3,Medium,Current stock below reorder level
+2025-03-31,5,1691,Surf Excel Detergent 11,Britannia Distributor,42,91,149,2,Medium,Current stock below reorder level
+2025-03-31,5,1731,Wheel Detergent 11,HUL Distribution,45,50,105,2,Medium,Current stock below reorder level
+2025-03-31,5,1733,Wheel Detergent 13,Dabur Wholesale,86,100,114,5,Medium,Current stock below reorder level
+2025-03-31,5,1757,Vim Dishwash 17,ITC Foods Distributor,72,80,108,3,Medium,Current stock below reorder level
+2025-03-31,5,1758,Vim Dishwash 18,HUL Distribution,74,84,110,2,Medium,Current stock below reorder level
+2025-03-31,5,1759,Vim Dishwash 19,Britannia Distributor,85,92,107,2,Medium,Current stock below reorder level
+2025-03-31,5,1768,Pril Dishwash 8,Britannia Distributor,42,79,137,2,Medium,Current stock below reorder level
+2025-03-31,6,1017,India Gate Rice 17,Patanjali Supply Chain,52,94,142,4,Medium,Current stock below reorder level
+2025-03-31,6,1021,Daawat Rice 1,Amul Distribution Pvt Ltd,62,93,131,2,Medium,Current stock below reorder level
+2025-03-31,6,1029,Daawat Rice 9,ITC Foods Distributor,68,74,106,3,Medium,Current stock below reorder level
+2025-03-31,6,1054,Fortune Rice 14,HUL Distribution,54,75,121,2,Medium,Current stock below reorder level
+2025-03-31,6,1129,Fortune Oil 9,Nestle India Supply,68,75,107,3,Medium,Current stock below reorder level
+2025-03-31,6,1134,Fortune Oil 14,Parle Products Supply,66,75,109,2,Medium,Current stock below reorder level
+2025-03-31,6,1166,Dhara Oil 6,Britannia Distributor,48,94,146,2,Medium,Current stock below reorder level
+2025-03-31,6,1171,Dhara Oil 11,HUL Distribution,68,92,124,2,Medium,Current stock below reorder level
+2025-03-31,6,1209,Trust Sugar 9,Britannia Distributor,37,52,115,2,Medium,Current stock below reorder level
+2025-03-31,6,1216,Trust Sugar 16,Fortune Foods Supply,44,98,154,3,High,Current stock below reorder level
+2025-03-31,6,1254,Amul Milk 14,Parle Products Supply,80,90,110,2,Medium,Current stock below reorder level
+2025-03-31,6,1310,Britannia Butter 10,Amul Distribution Pvt Ltd,61,69,108,2,Medium,Current stock below reorder level
+2025-03-31,6,1369,Lay's Chips 9,Britannia Distributor,72,91,119,2,Medium,Current stock below reorder level
+2025-03-31,6,1387,Kurkure Chips 7,Nestle India Supply,39,67,128,3,Medium,Current stock below reorder level
+2025-03-31,6,1406,Britannia Biscuits 6,Tata Consumer Supply,56,96,140,4,Medium,Current stock below reorder level
+2025-03-31,6,1416,Britannia Biscuits 16,Britannia Distributor,73,84,111,2,Medium,Current stock below reorder level
+2025-03-31,6,1448,Tata Tea Tea 8,Nestle India Supply,74,99,125,3,Medium,Current stock below reorder level
+2025-03-31,6,1455,Tata Tea Tea 15,Nestle India Supply,58,59,101,3,Medium,Current stock below reorder level
+2025-03-31,6,1484,Nescafe Coffee 4,ITC Foods Distributor,52,87,135,3,Medium,Current stock below reorder level
+2025-03-31,6,1494,Nescafe Coffee 14,HUL Distribution,75,88,113,2,Medium,Current stock below reorder level
+2025-03-31,6,1517,Bru Coffee 17,Fortune Foods Supply,54,87,133,3,Medium,Current stock below reorder level
+2025-03-31,6,1526,Dove Soap 6,ITC Foods Distributor,67,90,123,3,Medium,Current stock below reorder level
+2025-03-31,6,1564,Lifebuoy Soap 4,Britannia Distributor,38,83,145,2,Medium,Current stock below reorder level
+2025-03-31,6,1568,Lifebuoy Soap 8,Patanjali Supply Chain,67,99,132,4,Medium,Current stock below reorder level
+2025-03-31,6,1572,Lifebuoy Soap 12,Nestle India Supply,64,90,126,3,Medium,Current stock below reorder level
+2025-03-31,6,1577,Lifebuoy Soap 17,Parle Products Supply,48,88,140,2,Medium,Current stock below reorder level
+2025-03-31,6,1585,Clinic Plus Shampoo 5,Tata Consumer Supply,64,96,132,4,Medium,Current stock below reorder level
+2025-03-31,6,1630,Head & Shoulders Shampoo 10,Patanjali Supply Chain,48,72,124,4,Medium,Current stock below reorder level
+2025-03-31,6,1676,Pepsodent Toothpaste 16,HUL Distribution,56,73,117,2,Medium,Current stock below reorder level
+2025-03-31,6,1689,Surf Excel Detergent 9,ITC Foods Distributor,75,90,115,3,Medium,Current stock below reorder level
+2025-03-31,6,1691,Surf Excel Detergent 11,Britannia Distributor,71,91,120,2,Medium,Current stock below reorder level
+2025-03-31,6,1707,Ariel Detergent 7,Nestle India Supply,46,61,115,3,Medium,Current stock below reorder level
+2025-03-31,6,1720,Ariel Detergent 20,Nestle India Supply,83,94,111,3,Medium,Current stock below reorder level
+2025-03-31,6,1735,Wheel Detergent 15,Tata Consumer Supply,77,79,102,4,Medium,Current stock below reorder level
+2025-03-31,6,1744,Vim Dishwash 4,HUL Distribution,57,91,134,2,Medium,Current stock below reorder level
+2025-03-31,6,1752,Vim Dishwash 12,Parle Products Supply,65,100,135,2,Medium,Current stock below reorder level
+2025-03-31,7,1006,India Gate Rice 6,Patanjali Supply Chain,60,63,103,4,Medium,Current stock below reorder level
+2025-03-31,7,1024,Daawat Rice 4,Nestle India Supply,71,100,129,3,Medium,Current stock below reorder level
+2025-03-31,7,1026,Daawat Rice 6,Tata Consumer Supply,86,91,105,4,Medium,Current stock below reorder level
+2025-03-31,7,1068,Aashirvaad Atta 8,Tata Consumer Supply,40,58,118,4,Medium,Current stock below reorder level
+2025-03-31,7,1108,Pillsbury Atta 8,Parle Products Supply,66,74,108,2,Medium,Current stock below reorder level
+2025-03-31,7,1113,Pillsbury Atta 13,Parle Products Supply,62,85,123,2,Medium,Current stock below reorder level
+2025-03-31,7,1122,Fortune Oil 2,Britannia Distributor,92,100,108,2,Medium,Current stock below reorder level
+2025-03-31,7,1126,Fortune Oil 6,ITC Foods Distributor,63,86,123,3,Medium,Current stock below reorder level
+2025-03-31,7,1133,Fortune Oil 13,Nestle India Supply,67,68,101,3,Medium,Current stock below reorder level
+2025-03-31,7,1139,Fortune Oil 19,Britannia Distributor,84,93,109,2,Medium,Current stock below reorder level
+2025-03-31,7,1141,Saffola Oil 1,Parle Products Supply,87,93,106,2,Medium,Current stock below reorder level
+2025-03-31,7,1155,Saffola Oil 15,ITC Foods Distributor,73,93,120,3,Medium,Current stock below reorder level
+2025-03-31,7,1161,Dhara Oil 1,HUL Distribution,59,90,131,2,Medium,Current stock below reorder level
+2025-03-31,7,1175,Dhara Oil 15,Dabur Wholesale,73,86,113,5,Medium,Current stock below reorder level
+2025-03-31,7,1184,Madhur Sugar 4,Parle Products Supply,88,95,107,2,Medium,Current stock below reorder level
+2025-03-31,7,1189,Madhur Sugar 9,Tata Consumer Supply,48,70,122,4,Medium,Current stock below reorder level
+2025-03-31,7,1226,Organic India Sugar 6,Tata Consumer Supply,63,97,134,4,Medium,Current stock below reorder level
+2025-03-31,7,1304,Britannia Butter 4,Nestle India Supply,78,88,110,3,Medium,Current stock below reorder level
+2025-03-31,7,1311,Britannia Butter 11,Patanjali Supply Chain,65,68,103,4,Medium,Current stock below reorder level
+2025-03-31,7,1330,Amul Cheese 10,Britannia Distributor,73,96,123,2,Medium,Current stock below reorder level
+2025-03-31,7,1359,Britannia Cheese 19,ITC Foods Distributor,62,69,107,3,Medium,Current stock below reorder level
+2025-03-31,7,1364,Lay's Chips 4,Patanjali Supply Chain,52,94,142,4,Medium,Current stock below reorder level
+2025-03-31,7,1378,Lay's Chips 18,Parle Products Supply,59,62,103,2,Medium,Current stock below reorder level
+2025-03-31,7,1386,Kurkure Chips 6,HUL Distribution,54,77,123,2,Medium,Current stock below reorder level
+2025-03-31,7,1415,Britannia Biscuits 15,Nestle India Supply,42,96,154,3,High,Current stock below reorder level
+2025-03-31,7,1452,Tata Tea Tea 12,Tata Consumer Supply,45,46,101,4,Medium,Current stock below reorder level
+2025-03-31,7,1454,Tata Tea Tea 14,Britannia Distributor,58,64,106,2,Medium,Current stock below reorder level
+2025-03-31,7,1473,Red Label Tea 13,HUL Distribution,42,51,109,2,Medium,Current stock below reorder level
+2025-03-31,7,1497,Nescafe Coffee 17,Fortune Foods Supply,44,48,104,3,Medium,Current stock below reorder level
+2025-03-31,7,1503,Bru Coffee 3,HUL Distribution,68,95,127,2,Medium,Current stock below reorder level
+2025-03-31,7,1506,Bru Coffee 6,Patanjali Supply Chain,57,63,106,4,Medium,Current stock below reorder level
+2025-03-31,7,1554,Lux Soap 14,Tata Consumer Supply,46,82,136,4,Medium,Current stock below reorder level
+2025-03-31,7,1569,Lifebuoy Soap 9,Parle Products Supply,46,58,112,2,Medium,Current stock below reorder level
+2025-03-31,7,1571,Lifebuoy Soap 11,ITC Foods Distributor,91,95,104,3,Medium,Current stock below reorder level
+2025-03-31,7,1585,Clinic Plus Shampoo 5,Tata Consumer Supply,81,96,115,4,Medium,Current stock below reorder level
+2025-03-31,7,1637,Head & Shoulders Shampoo 17,Fortune Foods Supply,67,78,111,3,Medium,Current stock below reorder level
+2025-03-31,7,1682,Surf Excel Detergent 2,Britannia Distributor,58,74,116,2,Medium,Current stock below reorder level
+2025-03-31,7,1684,Surf Excel Detergent 4,Dabur Wholesale,64,71,107,5,Medium,Current stock below reorder level
+2025-03-31,7,1710,Ariel Detergent 10,Tata Consumer Supply,48,61,113,4,Medium,Current stock below reorder level
+2025-03-31,7,1716,Ariel Detergent 16,Nestle India Supply,77,96,119,3,Medium,Current stock below reorder level
+2025-03-31,7,1717,Ariel Detergent 17,Dabur Wholesale,81,98,117,5,Medium,Current stock below reorder level
+2025-03-31,7,1761,Pril Dishwash 1,Nestle India Supply,64,77,113,3,Medium,Current stock below reorder level
+2025-03-31,7,1764,Pril Dishwash 4,Amul Distribution Pvt Ltd,73,79,106,2,Medium,Current stock below reorder level
+2025-03-31,8,1044,Fortune Rice 4,HUL Distribution,82,89,107,2,Medium,Current stock below reorder level
+2025-03-31,8,1049,Fortune Rice 9,Fortune Foods Supply,62,69,107,3,Medium,Current stock below reorder level
+2025-03-31,8,1071,Aashirvaad Atta 11,Britannia Distributor,39,81,142,2,Medium,Current stock below reorder level
+2025-03-31,8,1072,Aashirvaad Atta 12,Fortune Foods Supply,71,83,112,3,Medium,Current stock below reorder level
+2025-03-31,8,1086,Fortune Atta 6,HUL Distribution,93,95,102,2,Medium,Current stock below reorder level
+2025-03-31,8,1119,Pillsbury Atta 19,ITC Foods Distributor,56,97,141,3,Medium,Current stock below reorder level
+2025-03-31,8,1124,Fortune Oil 4,Patanjali Supply Chain,64,100,136,4,Medium,Current stock below reorder level
+2025-03-31,8,1161,Dhara Oil 1,HUL Distribution,54,90,136,2,Medium,Current stock below reorder level
+2025-03-31,8,1198,Madhur Sugar 18,Patanjali Supply Chain,68,69,101,4,Medium,Current stock below reorder level
+2025-03-31,8,1242,Amul Milk 2,Tata Consumer Supply,57,59,102,4,Medium,Current stock below reorder level
+2025-03-31,8,1318,Britannia Butter 18,Fortune Foods Supply,49,63,114,3,Medium,Current stock below reorder level
+2025-03-31,8,1361,Lay's Chips 1,Britannia Distributor,63,66,103,2,Medium,Current stock below reorder level
+2025-03-31,8,1397,Kurkure Chips 17,Patanjali Supply Chain,56,80,124,4,Medium,Current stock below reorder level
+2025-03-31,8,1462,Red Label Tea 2,Patanjali Supply Chain,95,100,105,4,Medium,Current stock below reorder level
+2025-03-31,8,1464,Red Label Tea 4,Patanjali Supply Chain,60,74,114,4,Medium,Current stock below reorder level
+2025-03-31,8,1517,Bru Coffee 17,Fortune Foods Supply,81,87,106,3,Medium,Current stock below reorder level
+2025-03-31,8,1575,Lifebuoy Soap 15,Tata Consumer Supply,47,81,134,4,Medium,Current stock below reorder level
+2025-03-31,8,1610,Pantene Shampoo 10,Dabur Wholesale,69,78,109,5,Medium,Current stock below reorder level
+2025-03-31,8,1635,Head & Shoulders Shampoo 15,Dabur Wholesale,66,97,131,5,Medium,Current stock below reorder level
+2025-03-31,8,1658,Colgate Toothpaste 18,Fortune Foods Supply,72,79,107,3,Medium,Current stock below reorder level
+2025-03-31,8,1688,Surf Excel Detergent 8,Parle Products Supply,97,98,101,2,Medium,Current stock below reorder level
+2025-03-31,8,1691,Surf Excel Detergent 11,Britannia Distributor,70,91,121,2,Medium,Current stock below reorder level
+2025-03-31,8,1701,Ariel Detergent 1,Fortune Foods Supply,43,68,125,3,Medium,Current stock below reorder level
+2025-03-31,8,1733,Wheel Detergent 13,Dabur Wholesale,53,100,147,5,Medium,Current stock below reorder level
+2025-03-31,8,1742,Vim Dishwash 2,Amul Distribution Pvt Ltd,64,88,124,2,Medium,Current stock below reorder level
+2025-03-31,8,1768,Pril Dishwash 8,Britannia Distributor,44,79,135,2,Medium,Current stock below reorder level
+2025-03-31,8,1774,Pril Dishwash 14,HUL Distribution,75,96,121,2,Medium,Current stock below reorder level
+2025-03-31,9,1017,India Gate Rice 17,Patanjali Supply Chain,74,94,120,4,Medium,Current stock below reorder level
+2025-03-31,9,1027,Daawat Rice 7,Britannia Distributor,61,71,110,2,Medium,Current stock below reorder level
+2025-03-31,9,1069,Aashirvaad Atta 9,Nestle India Supply,54,55,101,3,Medium,Current stock below reorder level
+2025-03-31,9,1079,Aashirvaad Atta 19,Amul Distribution Pvt Ltd,69,71,102,2,Medium,Current stock below reorder level
+2025-03-31,9,1094,Fortune Atta 14,ITC Foods Distributor,87,97,110,3,Medium,Current stock below reorder level
+2025-03-31,9,1096,Fortune Atta 16,ITC Foods Distributor,46,58,112,3,Medium,Current stock below reorder level
+2025-03-31,9,1105,Pillsbury Atta 5,HUL Distribution,59,60,101,2,Medium,Current stock below reorder level
+2025-03-31,9,1113,Pillsbury Atta 13,Parle Products Supply,77,85,108,2,Medium,Current stock below reorder level
+2025-03-31,9,1120,Pillsbury Atta 20,Parle Products Supply,77,93,116,2,Medium,Current stock below reorder level
+2025-03-31,9,1124,Fortune Oil 4,Patanjali Supply Chain,73,100,127,4,Medium,Current stock below reorder level
+2025-03-31,9,1155,Saffola Oil 15,ITC Foods Distributor,74,93,119,3,Medium,Current stock below reorder level
+2025-03-31,9,1158,Saffola Oil 18,Britannia Distributor,75,99,124,2,Medium,Current stock below reorder level
+2025-03-31,9,1161,Dhara Oil 1,HUL Distribution,82,90,108,2,Medium,Current stock below reorder level
+2025-03-31,9,1184,Madhur Sugar 4,Parle Products Supply,73,95,122,2,Medium,Current stock below reorder level
+2025-03-31,9,1202,Trust Sugar 2,Amul Distribution Pvt Ltd,84,92,108,2,Medium,Current stock below reorder level
+2025-03-31,9,1213,Trust Sugar 13,Nestle India Supply,75,80,105,3,Medium,Current stock below reorder level
+2025-03-31,9,1218,Trust Sugar 18,Patanjali Supply Chain,44,70,126,4,Medium,Current stock below reorder level
+2025-03-31,9,1244,Amul Milk 4,Tata Consumer Supply,38,42,104,4,Medium,Current stock below reorder level
+2025-03-31,9,1280,Mother Dairy Milk 20,Tata Consumer Supply,71,95,124,4,Medium,Current stock below reorder level
+2025-03-31,9,1306,Britannia Butter 6,Dabur Wholesale,33,84,151,5,High,Current stock below reorder level
+2025-03-31,9,1313,Britannia Butter 13,Fortune Foods Supply,40,43,103,3,Medium,Current stock below reorder level
+2025-03-31,9,1336,Amul Cheese 16,Nestle India Supply,55,93,138,3,Medium,Current stock below reorder level
+2025-03-31,9,1358,Britannia Cheese 18,Patanjali Supply Chain,34,79,145,4,Medium,Current stock below reorder level
+2025-03-31,9,1369,Lay's Chips 9,Britannia Distributor,77,91,114,2,Medium,Current stock below reorder level
+2025-03-31,9,1377,Lay's Chips 17,Britannia Distributor,87,97,110,2,Medium,Current stock below reorder level
+2025-03-31,9,1383,Kurkure Chips 3,HUL Distribution,64,66,102,2,Medium,Current stock below reorder level
+2025-03-31,9,1393,Kurkure Chips 13,Patanjali Supply Chain,91,100,109,4,Medium,Current stock below reorder level
+2025-03-31,9,1410,Britannia Biscuits 10,ITC Foods Distributor,56,95,139,3,Medium,Current stock below reorder level
+2025-03-31,9,1416,Britannia Biscuits 16,Britannia Distributor,82,84,102,2,Medium,Current stock below reorder level
+2025-03-31,9,1417,Britannia Biscuits 17,Tata Consumer Supply,56,79,123,4,Medium,Current stock below reorder level
+2025-03-31,9,1446,Tata Tea Tea 6,Patanjali Supply Chain,84,86,102,4,Medium,Current stock below reorder level
+2025-03-31,9,1448,Tata Tea Tea 8,Nestle India Supply,83,99,116,3,Medium,Current stock below reorder level
+2025-03-31,9,1477,Red Label Tea 17,Amul Distribution Pvt Ltd,78,93,115,2,Medium,Current stock below reorder level
+2025-03-31,9,1489,Nescafe Coffee 9,Amul Distribution Pvt Ltd,74,92,118,2,Medium,Current stock below reorder level
+2025-03-31,9,1496,Nescafe Coffee 16,Patanjali Supply Chain,42,49,107,4,Medium,Current stock below reorder level
+2025-03-31,9,1536,Dove Soap 16,HUL Distribution,40,64,124,2,Medium,Current stock below reorder level
+2025-03-31,9,1537,Dove Soap 17,Nestle India Supply,54,58,104,3,Medium,Current stock below reorder level
+2025-03-31,9,1539,Dove Soap 19,Fortune Foods Supply,83,86,103,3,Medium,Current stock below reorder level
+2025-03-31,9,1566,Lifebuoy Soap 6,ITC Foods Distributor,80,88,108,3,Medium,Current stock below reorder level
+2025-03-31,9,1575,Lifebuoy Soap 15,Tata Consumer Supply,71,81,110,4,Medium,Current stock below reorder level
+2025-03-31,9,1583,Clinic Plus Shampoo 3,Patanjali Supply Chain,42,57,115,4,Medium,Current stock below reorder level
+2025-03-31,9,1585,Clinic Plus Shampoo 5,Tata Consumer Supply,71,96,125,4,Medium,Current stock below reorder level
+2025-03-31,9,1621,Head & Shoulders Shampoo 1,ITC Foods Distributor,57,64,107,3,Medium,Current stock below reorder level
+2025-03-31,9,1645,Colgate Toothpaste 5,Fortune Foods Supply,74,97,123,3,Medium,Current stock below reorder level
+2025-03-31,9,1658,Colgate Toothpaste 18,Fortune Foods Supply,63,79,116,3,Medium,Current stock below reorder level
+2025-03-31,9,1676,Pepsodent Toothpaste 16,HUL Distribution,71,73,102,2,Medium,Current stock below reorder level
+2025-03-31,9,1717,Ariel Detergent 17,Dabur Wholesale,91,98,107,5,Medium,Current stock below reorder level
+2025-03-31,9,1720,Ariel Detergent 20,Nestle India Supply,58,94,136,3,Medium,Current stock below reorder level
+2025-03-31,9,1729,Wheel Detergent 9,Fortune Foods Supply,45,61,116,3,Medium,Current stock below reorder level
+2025-03-31,9,1742,Vim Dishwash 2,Amul Distribution Pvt Ltd,65,88,123,2,Medium,Current stock below reorder level
+2025-03-31,9,1758,Vim Dishwash 18,HUL Distribution,58,84,126,2,Medium,Current stock below reorder level
+2025-03-31,9,1759,Vim Dishwash 19,Britannia Distributor,89,92,103,2,Medium,Current stock below reorder level
+2025-03-31,10,1038,Daawat Rice 18,Tata Consumer Supply,52,74,122,4,Medium,Current stock below reorder level
+2025-03-31,10,1051,Fortune Rice 11,Parle Products Supply,60,90,130,2,Medium,Current stock below reorder level
+2025-03-31,10,1080,Aashirvaad Atta 20,Nestle India Supply,62,69,107,3,Medium,Current stock below reorder level
+2025-03-31,10,1093,Fortune Atta 13,ITC Foods Distributor,41,95,154,3,High,Current stock below reorder level
+2025-03-31,10,1120,Pillsbury Atta 20,Parle Products Supply,86,93,107,2,Medium,Current stock below reorder level
+2025-03-31,10,1134,Fortune Oil 14,Parle Products Supply,68,75,107,2,Medium,Current stock below reorder level
+2025-03-31,10,1170,Dhara Oil 10,Fortune Foods Supply,60,66,106,3,Medium,Current stock below reorder level
+2025-03-31,10,1180,Dhara Oil 20,Tata Consumer Supply,60,84,124,4,Medium,Current stock below reorder level
+2025-03-31,10,1226,Organic India Sugar 6,Tata Consumer Supply,47,97,150,4,Medium,Current stock below reorder level
+2025-03-31,10,1254,Amul Milk 14,Parle Products Supply,71,90,119,2,Medium,Current stock below reorder level
+2025-03-31,10,1272,Mother Dairy Milk 12,ITC Foods Distributor,63,83,120,3,Medium,Current stock below reorder level
+2025-03-31,10,1279,Mother Dairy Milk 19,Dabur Wholesale,69,79,110,5,Medium,Current stock below reorder level
+2025-03-31,10,1283,Amul Butter 3,Parle Products Supply,44,64,120,2,Medium,Current stock below reorder level
+2025-03-31,10,1289,Amul Butter 9,Amul Distribution Pvt Ltd,88,95,107,2,Medium,Current stock below reorder level
+2025-03-31,10,1290,Amul Butter 10,Fortune Foods Supply,52,66,114,3,Medium,Current stock below reorder level
+2025-03-31,10,1315,Britannia Butter 15,Nestle India Supply,44,63,119,3,Medium,Current stock below reorder level
+2025-03-31,10,1331,Amul Cheese 11,Britannia Distributor,35,91,156,2,High,Current stock below reorder level
+2025-03-31,10,1337,Amul Cheese 17,Tata Consumer Supply,52,70,118,4,Medium,Current stock below reorder level
+2025-03-31,10,1373,Lay's Chips 13,Dabur Wholesale,50,59,109,5,Medium,Current stock below reorder level
+2025-03-31,10,1378,Lay's Chips 18,Parle Products Supply,40,62,122,2,Medium,Current stock below reorder level
+2025-03-31,10,1395,Kurkure Chips 15,Parle Products Supply,70,73,103,2,Medium,Current stock below reorder level
+2025-03-31,10,1448,Tata Tea Tea 8,Nestle India Supply,62,99,137,3,Medium,Current stock below reorder level
+2025-03-31,10,1456,Tata Tea Tea 16,Dabur Wholesale,63,96,133,5,Medium,Current stock below reorder level
+2025-03-31,10,1459,Tata Tea Tea 19,HUL Distribution,67,68,101,2,Medium,Current stock below reorder level
+2025-03-31,10,1462,Red Label Tea 2,Patanjali Supply Chain,85,100,115,4,Medium,Current stock below reorder level
+2025-03-31,10,1503,Bru Coffee 3,HUL Distribution,65,95,130,2,Medium,Current stock below reorder level
+2025-03-31,10,1517,Bru Coffee 17,Fortune Foods Supply,57,87,130,3,Medium,Current stock below reorder level
+2025-03-31,10,1538,Dove Soap 18,Tata Consumer Supply,63,70,107,4,Medium,Current stock below reorder level
+2025-03-31,10,1549,Lux Soap 9,Nestle India Supply,37,51,114,3,Medium,Current stock below reorder level
+2025-03-31,10,1565,Lifebuoy Soap 5,Dabur Wholesale,86,91,105,5,Medium,Current stock below reorder level
+2025-03-31,10,1567,Lifebuoy Soap 7,Tata Consumer Supply,62,90,128,4,Medium,Current stock below reorder level
+2025-03-31,10,1604,Pantene Shampoo 4,Tata Consumer Supply,83,99,116,4,Medium,Current stock below reorder level
+2025-03-31,10,1607,Pantene Shampoo 7,Tata Consumer Supply,41,57,116,4,Medium,Current stock below reorder level
+2025-03-31,10,1631,Head & Shoulders Shampoo 11,ITC Foods Distributor,54,80,126,3,Medium,Current stock below reorder level
+2025-03-31,10,1641,Colgate Toothpaste 1,Britannia Distributor,41,46,105,2,Medium,Current stock below reorder level
+2025-03-31,10,1644,Colgate Toothpaste 4,Tata Consumer Supply,44,91,147,4,Medium,Current stock below reorder level
+2025-03-31,10,1652,Colgate Toothpaste 12,Nestle India Supply,55,99,144,3,Medium,Current stock below reorder level
+2025-03-31,10,1653,Colgate Toothpaste 13,HUL Distribution,83,94,111,2,Medium,Current stock below reorder level
+2025-03-31,10,1761,Pril Dishwash 1,Nestle India Supply,64,77,113,3,Medium,Current stock below reorder level
